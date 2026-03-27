@@ -1,0 +1,124 @@
+[
+  {
+    "id": "eduardo-ormeno",
+    "name": "Eduardo Ormeño",
+    "role": "Leadership",
+    "photo_url": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
+    "bio": "FullStack Developer, Microsoft MVP, GitHub Campus Expert",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/jose-orme%C3%B1o/",
+      "github": "https://github.com/eduardoorm",
+      "web": "https://eduardoorm.vercel.app/"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "luis-uculmana",
+    "name": "Luis Uculmana",
+    "role": "Speakers",
+    "photo_url": "https://gdgxica.github.io/team/luis-uculmana.webp",
+    "bio": "Software Engineer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/ithecode/",
+      "github": "https://github.com/iTheCode"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "pablo-ramos",
+    "name": "Pablo Ramos",
+    "role": "Sponsors",
+    "photo_url": "https://gdgxica.github.io/team/pablo-ramos-tito.webp",
+    "bio": "Data Analyst, Industrial Drone Pilot, IT Support",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/pabloramost/"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "ronaldo-alvarez",
+    "name": "Ronaldo Alvarez",
+    "role": "Community Manager",
+    "photo_url": "https://gdgxica.github.io/team/ronaldo-alvarez-uchuya.webp",
+    "bio": "UX/UI Designer, Graphic Designer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/ronaldo-alvarez-b76453240/"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "alvaro-pena",
+    "name": "Alvaro Peña",
+    "role": "Desarrollo",
+    "photo_url": "https://gdgxica.github.io/team/alvaro-pena.webp",
+    "bio": "Backend Developer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/aalvarop-pe/",
+      "github": "https://github.com/aalvaropc",
+      "web": "https://aalvaropc.vercel.app/"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "geremy-hernandez",
+    "name": "Geremy Hernandez",
+    "role": "Logística",
+    "photo_url": "https://gdgxica.github.io/team/geremy-hernandez-pena.webp",
+    "bio": "Data Analyst",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/geremy-alexander-hernandez-pe%C3%B1a-059a51267/"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "david-licla",
+    "name": "David Licla",
+    "role": "Technology",
+    "photo_url": "https://gdgxica.github.io/team/david-licla.webp",
+    "bio": "Frontend Engineer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/davidmariolc/",
+      "twitter": "https://x.com/DavidMarioLC",
+      "github": "https://github.com/DavidMarioLC",
+      "web": "https://portafolio-davidmariolc.vercel.app/"
+    },
+    "type": "organizer"
+  },
+  {
+    "id": "miguel-vivar",
+    "name": "Miguel Vivar",
+    "role": "Technology",
+    "photo_url": "https://gdgxica.github.io/team/miguel-vivar.webp",
+    "bio": "FullStack Developer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/miguel-vivar-farfan/",
+      "github": "https://github.com/MiguelVivar",
+      "web": "https://www.miguelvivar.engineer/"
+    },
+    "type": "member"
+  },
+  {
+    "id": "jeremy-fernandez",
+    "name": "Jeremy Fernandez",
+    "role": "Technology",
+    "photo_url": "https://gdgxica.github.io/team/jeremy-fernandez.webp",
+    "bio": "Flutter Developer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/jeremy-fernandez-704ab9237/",
+      "github": "https://github.com/JeffCodeEasy",
+      "web": "https://jeremyfernandez.netlify.app/"
+    },
+    "type": "member"
+  },
+  {
+    "id": "nikcol-uribe",
+    "name": "Nikcol Uribe",
+    "role": "Logística",
+    "photo_url": "https://gdgxica.github.io/team/nikol-uribe.webp",
+    "bio": "QA Lead",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/nikcol-uribe-huamani-324568289/"
+    },
+    "type": "member"
+  }
+]

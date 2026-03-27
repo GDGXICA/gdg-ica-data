@@ -1,0 +1,140 @@
+{
+  "id": "devfest-2024",
+  "title": "DevFest 2024",
+  "description": "¡DEVFEST ICA llega el 23 de noviembre! sumérgete en el mundo de la tecnología. Disfruta de charlas inspiradoras y aprendizaje de vanguardia",
+  "short_description": " Disfruta de charlas inspiradoras y aprendizaje de vanguardia",
+  "date": "2024-11-23T09:00:00",
+  "end_time": "06:00 PM",
+  "venue": "Universidad Continental, campus Ica",
+  "venue_address": "Universidad Continental, 95 Calle A Ica, Ica 11004",
+  "venue_map_url": "https://maps.app.goo.gl/rzTBgMfbCZwjmssm9",
+  "image_url": "https://gdgxica.github.io/events/devfest-2024.webp",
+  "topics": [
+    "Cloud",
+    "Machine Learning",
+    "Career Development",
+    "Data",
+    "Firebase",
+    "Flutter",
+    "Gemini",
+    "IA",
+    "Web"
+  ],
+  "speaker_names": [],
+  "registration_url": null,
+  "is_virtual": false,
+  "is_highlight": false,
+  "participants": 387,
+  "max_participants": 500,
+  "category": "devfest",
+  "status": "completed",
+  "materials": {},
+  "requirements": [
+    "requisitos 01",
+    "requisitos 02"
+  ],
+  "includes": [
+    "Coffe breaks",
+    "Swag oficial de Google y GitHub"
+  ],
+  "agenda": [
+    {
+      "time": "08:30 AM - 09:30 AM",
+      "title": "Registro de asistentes",
+      "speaker": "Fiorella Ariás"
+    },
+    {
+      "time": "09:30 AM - 09:40 AM",
+      "title": "Inauguración DevFest Ica",
+      "speaker": "Eduardo Ormeño"
+    },
+    {
+      "time": "09:40 AM - 09:45 AM",
+      "title": "Bienvenida - Cámara de Comercio",
+      "speaker": "Eduardo Ojeda"
+    },
+    {
+      "time": "09:45 AM - 10:15 AM",
+      "title": "Las soft skills que todo ingeniero de software necesita.",
+      "speaker": "Luis Landa"
+    },
+    {
+      "time": "10:15 AM - 10:45 AM",
+      "title": "404: Impuestos no Encontrados - Evita Errores Fiscales con SUNAT",
+      "speaker": "Jimy Dolores"
+    },
+    {
+      "time": "10:45 AM - 11:10 AM",
+      "title": "Desarrollo web colaborativo en la nube con GitHub Codespaces y Copilot.",
+      "speaker": "Eduardo Ormeño"
+    },
+    {
+      "time": "11:15 AM - 11:40 AM",
+      "title": "Transformando la Educación con Realidad Virtual e IA",
+      "speaker": "Miguel Córdova"
+    },
+    {
+      "time": "11:45 AM - 12:10 AM",
+      "title": "IA en la web: Cómo integrar inteligencia artificial en tus aplicaciones web",
+      "speaker": "Damián Siré"
+    },
+    {
+      "time": "12:15 AM - 12:40 AM",
+      "title": "¿Cómo iniciar en el desarrollo móvil en el 2024?",
+      "speaker": "Bruno Aybar"
+    },
+    {
+      "time": "12:45 AM - 01:40 PM",
+      "title": "Los skills que no aparecen en listados que necesitas para no fracasar como dev",
+      "speaker": "Noe Branagan"
+    },
+    {
+      "time": "01:15 AM - 03:00 PM",
+      "title": "Break + Networking",
+      "speaker": ""
+    },
+    {
+      "time": "03:00 PM - 03:25 PM",
+      "title": "¡Despierta tu creatividad! Crea tu primera app increíble con Flutter",
+      "speaker": "Hansy Smitch"
+    },
+    {
+      "time": "03:00 PM - 03:25 PM",
+      "title": "El perfecto candidato: ¿La IA o yo?",
+      "speaker": "Isabel Cordova"
+    },
+    {
+      "time": "04:00 PM - 04:25 PM",
+      "title": "Creación de aplicaciones de Android con agentes de Inteligencia Artificial",
+      "speaker": "Santiago Carrillo"
+    },
+    {
+      "time": "04:30 PM - 04:55 PM",
+      "title": "El futuro del trabajo en IT: De lo técnico a lo humano",
+      "speaker": "Joel Ibaceta"
+    },
+    {
+      "time": "05:30 PM - 05:55 PM",
+      "title": "Usando Servicios de Google para crear videojuegos de éxito",
+      "speaker": "Rafael Gonzales"
+    },
+    {
+      "time": "06:00 PM - 06:25 PM",
+      "title": "¡Vamos a divertirnos jugando con IA en tu app de Angular usando Gemini!",
+      "speaker": "Will Mendes"
+    },
+    {
+      "time": "06:00 PM - 06:25 PM",
+      "title": "Cierre del evento",
+      "speaker": "Eduardo Ormeño"
+    },
+    {
+      "time": "06:25 PM - 07:00 PM",
+      "title": "Break + Networking",
+      "speaker": ""
+    }
+  ],
+  "speaker_ids": [
+    "bruno-aybar-guerrero"
+  ]
+}

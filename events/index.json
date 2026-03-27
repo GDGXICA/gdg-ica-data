@@ -1,0 +1,112 @@
+[
+  {
+    "id": "devfest-2024",
+    "title": "DevFest 2024",
+    "short_description": " Disfruta de charlas inspiradoras y aprendizaje de vanguardia",
+    "date": "2024-11-23T09:00:00",
+    "venue": "Universidad Continental, campus Ica",
+    "image_url": "https://gdgxica.github.io/events/devfest-2024.webp",
+    "topics": [
+      "Cloud",
+      "Machine Learning",
+      "Career Development",
+      "Data",
+      "Firebase",
+      "Flutter",
+      "Gemini",
+      "IA",
+      "Web"
+    ],
+    "category": "devfest",
+    "status": "completed",
+    "is_highlight": false
+  },
+  {
+    "id": "devfest-2025",
+    "title": "DevFest 2025",
+    "short_description": "El festival más grande de tecnología de la región con IA, Cloud, ML, Android y más",
+    "date": "2025-11-29T08:00:00",
+    "venue": "Zegel Ica",
+    "image_url": "https://gdgxica.github.io/events/devfest-2025.webp",
+    "topics": [
+      "Cloud",
+      "Machine Learning",
+      "Android",
+      "Career Development",
+      "Certification Prep",
+      "Data",
+      "Firebase",
+      "Flutter",
+      "Gemini",
+      "Google Assistant",
+      "IA",
+      "Web"
+    ],
+    "category": "devfest",
+    "status": "completed",
+    "is_highlight": true
+  },
+  {
+    "id": "google-cloud",
+    "title": "Google Cloud",
+    "short_description": "Introducción a GCP: computación, datos, IA y ML en la nube de Google",
+    "date": "2025-06-21T09:00:00",
+    "venue": "Zegel - Sede Ica",
+    "image_url": "https://gdgxica.github.io/events/google-cloud.webp",
+    "topics": [
+      "Cloud",
+      "GCP",
+      "Google Cloud",
+      "Career Development",
+      "Data",
+      "IA",
+      "Machine Learning"
+    ],
+    "category": "studyjam",
+    "status": "completed",
+    "is_highlight": false
+  },
+  {
+    "id": "build-with-ai-ica-2026",
+    "title": "Build with AI: Ica 2026",
+    "short_description": "Construyendo el futuro con Inteligencia Artificial",
+    "date": "2026-05-09T07:00:00",
+    "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
+    "image_url": "https://gdgxica.github.io/events/build-with-ai-ica-2026.webp",
+    "topics": [
+      "Build with AI",
+      "Google Cloud",
+      "AI",
+      "Career Development",
+      "Community Building",
+      "Firebase",
+      "Flutter",
+      "Networking",
+      "Get Certified",
+      "Web",
+      "Angular"
+    ],
+    "category": "meetup",
+    "status": "upcoming",
+    "is_highlight": true
+  },
+  {
+    "id": "w-avoiding-frankenstein-apps-2026",
+    "title": "Evitando \"Aplicaciones Frankenstein\" generadas por AI Coding usando SDD y Antigravity",
+    "short_description": "Taller virtual de IA y Vibe Coding con Antigravity para crear software sostenible",
+    "date": "2026-02-21T14:00:00",
+    "venue": "",
+    "image_url": "https://gdgxica.github.io/events/w-avoiding-frankenstein-apps-2026.webp",
+    "topics": [
+      "AI",
+      "Gemini",
+      "Antigravity",
+      "Web",
+      "Cloud",
+      "Google Cloud"
+    ],
+    "category": "wtm",
+    "status": "completed",
+    "is_highlight": false
+  }
+]

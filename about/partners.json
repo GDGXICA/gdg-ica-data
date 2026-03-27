@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Google",
+    "logo_url": "https://gdgxica.github.io/sponsors/google.svg",
+    "url": "https://www.google.com",
+    "sector": "Tecnología",
+    "description": "Nuestro patrocinador principal y la empresa detrás de las tecnologías que celebramos. Google proporciona recursos, speakers y acceso a las últimas innovaciones.",
+    "featured": true
+  },
+  {
+    "name": "GitHub",
+    "logo_url": "https://gdgxica.github.io/sponsors/github.svg",
+    "url": "https://github.com",
+    "sector": "Colaboración Dev",
+    "description": "Plataforma líder de colaboración y open source que potencia nuestros workshops y contribuciones comunitarias.",
+    "featured": true
+  },
+  {
+    "name": "Cámara de comercio de ica",
+    "logo_url": "https://gdgxica.github.io/sponsors/camaraica.webp",
+    "url": "https://camaraica.org.pe/",
+    "sector": "Comercio, industria y turismo",
+    "description": "Asociación Civil que busca contribuir a la competitividad regional a través de un fortalecido gremio empresarial.",
+    "featured": false
+  },
+  {
+    "name": "Hub Tecológica",
+    "logo_url": "https://gdgxica.github.io/sponsors/hubtecnologica.webp",
+    "url": "https://www.facebook.com/HubTecnologica",
+    "sector": "Emprendimiento",
+    "description": "Un espacio de trabajo e innovación diseñado para reunir a emprendedores e impulsar la aceleración de las startups y emprendimientos tecnológicos en la región de Ica.",
+    "featured": false
+  },
+  {
+    "name": "Systematic",
+    "logo_url": "https://gdgxica.github.io/sponsors/systematic.webp",
+    "url": "https://www.facebook.com/esystematic",
+    "sector": "Educación",
+    "description": "Corporación Educativa líder en servicios de capacitación y desarrollo de habilidades en diversas áreas, incluyendo tecnología, negocios, liderazgo y desarrollo personal.",
+    "featured": false
+  },
+  {
+    "name": "CIETA",
+    "logo_url": "https://gdgxica.github.io/sponsors/cieta.webp",
+    "url": "https://www.facebook.com/CIETAPERU",
+    "sector": "Educación",
+    "description": "Dedicados a formar profesionales de calidad con los mejores programas de aprendizaje.",
+    "featured": false
+  },
+  {
+    "name": "NTTDATA",
+    "logo_url": "https://gdgxica.github.io/sponsors/nttdata.webp",
+    "url": "https://pe.nttdata.com/",
+    "sector": "Software",
+    "description": "Consultora multinacional que ofrece soluciones de negocio, estrategia, transformación digital, desarrollo y mantenimiento de aplicaciones tecnológicas y outsourcing",
+    "featured": false
+  },
+  {
+    "name": "JetBrains",
+    "logo_url": "https://gdgxica.github.io/sponsors/jetbrains.svg",
+    "url": "https://www.jetbrains.com/es-es/",
+    "sector": "Software",
+    "description": "Principales IDE multiplataforma para desarrolladores . NET y de juegos que buscan aumentar la productividad y agilizar su proceso de desarrollo",
+    "featured": false
+  },
+  {
+    "name": "ETP - Escuelas Técnicas del Perú",
+    "logo_url": "https://gdgxica.github.io/sponsors/etp.webp",
+    "url": "https://www.facebook.com/etp.ica/",
+    "sector": "Educación",
+    "description": "Programas educativos que desarrollan habilidades y destrezas para el mundo laboral, abarcando desde la formación técnica de nivel secundario y superior hasta la formación profesional para trabajadores.",
+    "featured": false
+  },
+  {
+    "name": "Zegel",
+    "logo_url": "https://gdgxica.github.io/sponsors/zegel.webp",
+    "url": "https://www.zegel.edu.pe/",
+    "sector": "Educación",
+    "description": "Zegel es una escuela de negocios en Perú, antes conocida como Zegel IPAE, que ofrece carreras de pregrado en negocios y tecnología, así como programas de posgrado y diplomaturas",
+    "featured": false
+  },
+  {
+    "name": "Tejas y Chocotejas Don Juan",
+    "logo_url": "https://gdgxica.github.io/sponsors/chocotejas-don-juan.webp",
+    "url": "https://www.facebook.com/deliciasdonjuan.ica",
+    "sector": "Alimentos",
+    "description": "Empresa dedicada a la producción de tejas, chocotejas y diversos dulces artesanales de la región. ",
+    "featured": false
+  }
+]

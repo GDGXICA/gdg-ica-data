@@ -1,0 +1,69 @@
+{
+  "id": "devfest-2025",
+  "title": "DevFest 2025",
+  "description": "¡DevFest Ica 2025 llega el 29 de noviembre! Únete al festival de tecnología más grande de la región. Explora las últimas tendencias en IA, Android, Angular, Cloud Computing, Machine Learning y mucho más. Conecta con desarrolladores, aprende de expertos y descubre cómo la tecnología está transformando el mundo. ¡Una experiencia imperdible para la comunidad tech de Ica!",
+  "short_description": "El festival más grande de tecnología de la región con IA, Cloud, ML, Android y más",
+  "date": "2025-11-29T08:00:00",
+  "end_time": "01:30 PM",
+  "venue": "Zegel Ica",
+  "venue_address": "Zegel - Sede Ica, Av Cutervo cutervo",
+  "venue_map_url": "https://maps.app.goo.gl/ZegelIcaSede",
+  "image_url": "https://gdgxica.github.io/events/devfest-2025.webp",
+  "topics": [
+    "Cloud",
+    "Machine Learning",
+    "Android",
+    "Career Development",
+    "Certification Prep",
+    "Data",
+    "Firebase",
+    "Flutter",
+    "Gemini",
+    "Google Assistant",
+    "IA",
+    "Web"
+  ],
+  "speaker_names": [
+    "Michael Sontheimer",
+    "Aldo Malaver",
+    "Giancarlos Sandoval",
+    "Wilma Paca Patzi",
+    "Sigmund Mandel",
+    "Luis Uculmana"
+  ],
+  "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/",
+  "is_virtual": false,
+  "is_highlight": true,
+  "participants": 300,
+  "max_participants": 350,
+  "category": "devfest",
+  "status": "completed",
+  "materials": {},
+  "requirements": [
+    "Estar registrado al evento a través del formulario oficial",
+    "Tener conocimientos básicos en programación o tecnología",
+    "Ganas de aprender y conectar con la comunidad tech"
+  ],
+  "includes": [
+    "Coffee breaks y refrigerios",
+    "Swag oficial de Google y GitHub",
+    "Acceso a todas las charlas de speakers internacionales",
+    "Networking con la comunidad tech más grande de la región",
+    "Acceso a recursos exclusivos y material de las presentaciones",
+    "Oportunidades de colaboración con empresas patrocinadoras"
+  ],
+  "agenda": [],
+  "speaker_ids": [
+    "michael-sontheimer",
+    "aldo-malaver",
+    "josselyn-hinostroza",
+    "giancarlos-sandoval",
+    "wilma-paca-patzi",
+    "sigmund-mandel",
+    "luis-uculmana",
+    "daniel-carbajal",
+    "david-contreras",
+    "jose-hurtado",
+    "eduardo-ormeno"
+  ]
+}

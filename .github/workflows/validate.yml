@@ -1,0 +1,41 @@
+name: Validate JSON
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate JSON files
+        run: |
+          echo "Validating all JSON files..."
+          errors=0
+          for file in $(find . -name "*.json" -not -path "./.github/*"); do
+            if ! python3 -m json.tool "$file" > /dev/null 2>&1; then
+              echo "INVALID: $file"
+              errors=$((errors + 1))
+            else
+              echo "OK: $file"
+            fi
+          done
+          if [ $errors -gt 0 ]; then
+            echo "$errors file(s) with invalid JSON"
+            exit 1
+          fi
+          echo "All JSON files are valid!"
+
+      - name: Check required index files
+        run: |
+          for index in events/index.json speakers/index.json; do
+            if [ ! -f "$index" ]; then
+              echo "MISSING: $index"
+              exit 1
+            fi
+            echo "OK: $index"
+          done

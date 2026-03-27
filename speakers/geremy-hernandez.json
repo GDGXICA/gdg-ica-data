@@ -1,0 +1,18 @@
+{
+  "id": "geremy-hernandez",
+  "name": "Geremy Hernandez",
+  "bio": "Data Analyst",
+  "photo_url": "https://gdgxica.github.io/team/geremy-hernandez-pena.webp",
+  "company": "GDG ICA",
+  "role": "Logística",
+  "topics": [
+    "SQL",
+    "Power BI",
+    "R",
+    "Excel"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/geremy-alexander-hernandez-pe%C3%B1a-059a51267/"
+  },
+  "talk_ids": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "luis-uculmana",
+  "name": "Luis Uculmana",
+  "bio": "Líder del GDG Ica especializado en desarrollo FullStack y tecnologías Google Cloud",
+  "photo_url": "https://gdgxica.github.io/team/luis-uculmana.webp",
+  "company": "GDG ICA",
+  "role": "GDG Ica Leader",
+  "topics": [
+    "Cloud",
+    "AI",
+    "Software architecture",
+    "Devops",
+    "Data Management",
+    "FullStack Cross-Platform"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/ithecode/",
+    "github": "https://github.com/iTheCode"
+  },
+  "talk_ids": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "w-avoiding-frankenstein-apps-2026",
+  "title": "Evitando \"Aplicaciones Frankenstein\" generadas por AI Coding usando SDD y Antigravity",
+  "description": "La IA ha permitido acelerar el desarrollo de aplicaciones, logrando una mayor productividad en esta área y facilitando la creación masiva de aplicaciones pequeñas y componentes de software dentro de un sistema mayor. Sin embargo, si no se dirige correctamente, puede generar código difícil de mantener, complejo de analizar, arduo de testear y con una alta deuda técnica. Es por ello que resurgen con más fuerza que nunca prácticas como DDD (Domain-Driven Design) o SDD (Software Design Document). Estos enfoques de desarrollo permiten que las herramientas de AI Coding tengan menos desvíos y alucinaciones, logrando construir software sostenible. En esta charla abordaremos estos enfoques de forma práctica, utilizando herramientas de IA como Antigravity para crear software robusto y mantenible.",
+  "short_description": "Taller virtual de IA y Vibe Coding con Antigravity para crear software sostenible",
+  "date": "2026-02-21T14:00:00",
+  "end_time": "04:00 PM",
+  "venue": "",
+  "venue_address": "",
+  "venue_map_url": "",
+  "image_url": "https://gdgxica.github.io/events/w-avoiding-frankenstein-apps-2026.webp",
+  "topics": [
+    "AI",
+    "Gemini",
+    "Antigravity",
+    "Web",
+    "Cloud",
+    "Google Cloud"
+  ],
+  "speaker_names": [],
+  "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-taller-virtual-evitando-aplicaciones-frankenstein-generadas-por-ai-coding-usando-sdd-y-antigravity/",
+  "is_virtual": true,
+  "is_highlight": false,
+  "participants": 36,
+  "max_participants": 100,
+  "category": "wtm",
+  "status": "completed",
+  "materials": {},
+  "requirements": [
+    "Registrarse",
+    "Ser puntuales"
+  ],
+  "includes": [
+    "Certificado digital de participación",
+    "Material del workshop y presentaciones descargables",
+    "Acceso a repositorio con código de ejemplo",
+    "Sesión interactiva de preguntas y respuestas"
+  ],
+  "agenda": [
+    {
+      "time": "02:00 PM - 2:15 PM",
+      "title": "Inicio del evento",
+      "speaker": "Eduardo Ormeño"
+    },
+    {
+      "time": "02:15 PM - 04:00 PM",
+      "title": "Evitando \"Aplicaciones Frankenstein\" generadas por AI Coding usando SDD y Antigravity",
+      "speaker": "Juan Guillermo Gómez Torres"
+    }
+  ],
+  "speaker_ids": [
+    "juan-guillermo-gomez-torres"
+  ]
+}

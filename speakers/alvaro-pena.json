@@ -1,0 +1,21 @@
+{
+  "id": "alvaro-pena",
+  "name": "Alvaro Peña",
+  "bio": "Backend Developer",
+  "photo_url": "https://gdgxica.github.io/team/alvaro-pena.webp",
+  "company": "GDG ICA",
+  "role": "Desarrollo",
+  "topics": [
+    "Cloud",
+    "Python",
+    "Go",
+    "Backend",
+    "Kubernetes"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/aalvarop-pe/",
+    "github": "https://github.com/aalvaropc",
+    "web": "https://aalvaropc.vercel.app/"
+  },
+  "talk_ids": []
+}

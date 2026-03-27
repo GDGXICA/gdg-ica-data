@@ -1,0 +1,22 @@
+{
+  "id": "david-licla",
+  "name": "David Licla",
+  "bio": "Frontend Engineer",
+  "photo_url": "https://gdgxica.github.io/team/david-licla.webp",
+  "company": "GDG ICA",
+  "role": "Technology",
+  "topics": [
+    "Next.js",
+    "a11y",
+    "i18n",
+    "Web Performance",
+    "TypeScript"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/davidmariolc/",
+    "twitter": "https://x.com/DavidMarioLC",
+    "github": "https://github.com/DavidMarioLC",
+    "web": "https://portafolio-davidmariolc.vercel.app/"
+  },
+  "talk_ids": []
+}

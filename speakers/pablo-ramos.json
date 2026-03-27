@@ -1,0 +1,18 @@
+{
+  "id": "pablo-ramos",
+  "name": "Pablo Ramos",
+  "bio": "Data Analyst, Industrial Drone Pilot, IT Support",
+  "photo_url": "https://gdgxica.github.io/team/pablo-ramos-tito.webp",
+  "company": "GDG ICA",
+  "role": "Sponsors",
+  "topics": [
+    "SQL",
+    "Power BI",
+    "Python",
+    "Excel"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/pabloramost/"
+  },
+  "talk_ids": []
+}

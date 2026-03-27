@@ -1,0 +1,20 @@
+{
+  "id": "eduardo-ormeno",
+  "name": "Eduardo Ormeño",
+  "bio": "Desarrollador FullStack y experto en GitHub Campus con enfoque en soluciones innovadoras",
+  "photo_url": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
+  "company": "GDG ICA",
+  "role": "FullStack Developer & Github Campus Expert",
+  "topics": [
+    "Typescript",
+    "Python",
+    "GCP",
+    "Nest"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/jose-orme%C3%B1o/",
+    "github": "https://github.com/eduardoorm",
+    "web": "https://eduardoorm.vercel.app/"
+  },
+  "talk_ids": []
+}

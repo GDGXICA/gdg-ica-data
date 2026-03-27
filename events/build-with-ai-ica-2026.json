@@ -1,0 +1,56 @@
+{
+  "id": "build-with-ai-ica-2026",
+  "title": "Build with AI: Ica 2026",
+  "description": "La Inteligencia Artificial está redefiniendo la forma en que construimos tecnología. Build with AI: Ica 2026 es un evento presencial organizado por GDG Ica donde exploraremos las últimas herramientas y tecnologías de Google para construir soluciones con inteligencia artificial. Únete a una jornada de charlas, talleres y networking con expertos de la comunidad tech. Aprende sobre Google Cloud, Firebase, Flutter, Angular y más, todo potenciado por IA. ¡Construyamos juntos el futuro con inteligencia artificial!",
+  "short_description": "Construyendo el futuro con Inteligencia Artificial",
+  "date": "2026-05-09T07:00:00",
+  "end_time": "02:10 PM",
+  "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
+  "venue_address": "Universidad Tecnológica Del Perú S/N Avenida Ayabaca Ica, 11001",
+  "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
+  "image_url": "https://gdgxica.github.io/events/build-with-ai-ica-2026.webp",
+  "topics": [
+    "Build with AI",
+    "Google Cloud",
+    "AI",
+    "Career Development",
+    "Community Building",
+    "Firebase",
+    "Flutter",
+    "Networking",
+    "Get Certified",
+    "Web",
+    "Angular"
+  ],
+  "speaker_names": [
+    "Kevin Dávila",
+    "Brian Castillo",
+    "Rafael Gonzales",
+    "Tony Trujillo Dávila"
+  ],
+  "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-build-with-ai-ica-2026/",
+  "is_virtual": false,
+  "is_highlight": true,
+  "participants": 72,
+  "max_participants": 1000,
+  "category": "meetup",
+  "status": "upcoming",
+  "materials": {},
+  "requirements": [
+    "Registrarse",
+    "Ser puntuales"
+  ],
+  "includes": [
+    "Laboratorio moderno",
+    "Swag oficial de Google",
+    "Coffee breaks",
+    "Networking con la comunidad tech"
+  ],
+  "agenda": [],
+  "speaker_ids": [
+    "kevin-davila",
+    "brian-castillo",
+    "rafael-gonzales",
+    "tony-trujillo-davila"
+  ]
+}

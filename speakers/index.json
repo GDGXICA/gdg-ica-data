@@ -1,0 +1,299 @@
+[
+  {
+    "id": "bruno-aybar-guerrero",
+    "name": "Bruno Aybar Guerrero",
+    "bio": "Arquitecto de soluciones cloud con Google Cloud Platform (GCP)",
+    "photo_url": null,
+    "company": "",
+    "role": "Senior Software Engineer at Shopify",
+    "topics": [],
+    "social_links": {
+      "linkedin": "link"
+    }
+  },
+  {
+    "id": "michael-sontheimer",
+    "name": "Michael Sontheimer",
+    "bio": "Especialista internacional en tecnologías de la salud",
+    "photo_url": "https://gdgxica.github.io/speakers/michael-sontheimer.webp",
+    "company": "",
+    "role": "Clinica Schubel",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "aldo-malaver",
+    "name": "Aldo Malaver",
+    "bio": "Arquitecto Senior con amplia experiencia en soluciones bancarias y tecnologías financieras",
+    "photo_url": "https://gdgxica.github.io/speakers/aldo-malaver.webp",
+    "company": "",
+    "role": "Sr. Architect at Bank",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "josselyn-hinostroza",
+    "name": "Josselyn Hinostroza",
+    "bio": "Project Manager especializada en metodologías ágiles y gestión de proyectos tecnológicos",
+    "photo_url": "https://gdgxica.github.io/speakers/josselyn-hinostroza.webp",
+    "company": "",
+    "role": "Project Manager at Telefonica",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "giancarlos-sandoval",
+    "name": "Giancarlos Sandoval",
+    "bio": "Especialista en Flutter, Firebase y GitHub Copilot, enfocado en desarrollo móvil moderno",
+    "photo_url": "https://gdgxica.github.io/speakers/giancarlos-sandoval.webp",
+    "company": "",
+    "role": "Flutter Developer & GitHub Expert",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "wilma-paca-patzi",
+    "name": "Wilma Paca Patzi",
+    "bio": "Experta en testing y calidad de software, con enfoque en mejores prácticas de QA",
+    "photo_url": "https://gdgxica.github.io/speakers/wilma-paca.webp",
+    "company": "",
+    "role": "Staff Quality Engineer of Software at Jalasoft",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "sigmund-mandel",
+    "name": "Sigmund Mandel",
+    "bio": "Google Developer Expert especializado en desarrollo sin código y tecnologías innovadoras",
+    "photo_url": "https://gdgxica.github.io/speakers/sigmund-mandel.webp",
+    "company": "",
+    "role": "Google Developer Expert",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "luis-uculmana",
+    "name": "Luis Uculmana",
+    "bio": "Líder del GDG Ica especializado en desarrollo FullStack y tecnologías Google Cloud",
+    "photo_url": "https://gdgxica.github.io/team/luis-uculmana.webp",
+    "company": "GDG ICA",
+    "role": "GDG Ica Leader",
+    "topics": [
+      "Cloud",
+      "AI",
+      "Software architecture",
+      "Devops",
+      "Data Management",
+      "FullStack Cross-Platform"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/ithecode/",
+      "github": "https://github.com/iTheCode"
+    }
+  },
+  {
+    "id": "daniel-carbajal",
+    "name": "Daniel Carbajal",
+    "bio": "Ingeniero Full Stack con experiencia en IA y Cloud",
+    "photo_url": "https://gdgxica.github.io/speakers/daniel-carbajal.webp",
+    "company": "",
+    "role": "Senior Software Engineer at PowerFlex",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "david-contreras",
+    "name": "David Contreras",
+    "bio": "Desarrollador de software con experiencia en herramientas de IA y desarrollo colaborativo",
+    "photo_url": "https://gdgxica.github.io/speakers/david-contreras.webp",
+    "company": "",
+    "role": "Github Campus Expert",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "jose-hurtado",
+    "name": "Jose Hurtado",
+    "bio": "FullStack Developer con experiencia en Spring Webflux y Blockchain",
+    "photo_url": "https://gdgxica.github.io/speakers/jose-hurtado.webp",
+    "company": "",
+    "role": "FullStack Developer",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "eduardo-ormeno",
+    "name": "Eduardo Ormeño",
+    "bio": "Desarrollador FullStack y experto en GitHub Campus con enfoque en soluciones innovadoras",
+    "photo_url": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
+    "company": "GDG ICA",
+    "role": "FullStack Developer & Github Campus Expert",
+    "topics": [
+      "Typescript",
+      "Python",
+      "GCP",
+      "Nest"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/jose-orme%C3%B1o/",
+      "github": "https://github.com/eduardoorm",
+      "web": "https://eduardoorm.vercel.app/"
+    }
+  },
+  {
+    "id": "tony-trujillo",
+    "name": "Tony Trujillo",
+    "bio": "Arquitecto de soluciones cloud con Google Cloud Platform (GCP)",
+    "photo_url": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
+    "company": "",
+    "role": "Data Architect",
+    "topics": [],
+    "social_links": {
+      "linkedin": "link"
+    }
+  },
+  {
+    "id": "kevin-davila",
+    "name": "Kevin Dávila",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/kevin-davila.webp",
+    "company": "",
+    "role": "",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "brian-castillo",
+    "name": "Brian Castillo",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/brian-castillo.webp",
+    "company": "",
+    "role": "",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "rafael-gonzales",
+    "name": "Rafael Gonzales",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/rafael-gonzales.webp",
+    "company": "",
+    "role": "",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "tony-trujillo-davila",
+    "name": "Tony Trujillo Dávila",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
+    "company": "",
+    "role": "",
+    "topics": [],
+    "social_links": {}
+  },
+  {
+    "id": "juan-guillermo-gomez-torres",
+    "name": "Juan Guillermo Gómez Torres",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/juan-gomez.webp",
+    "company": "",
+    "role": "Software Architect | Google Developer Expert in Firebase, GCP & AI",
+    "topics": [],
+    "social_links": {
+      "linkedin": "link"
+    }
+  },
+  {
+    "id": "pablo-ramos",
+    "name": "Pablo Ramos",
+    "bio": "Data Analyst, Industrial Drone Pilot, IT Support",
+    "photo_url": "https://gdgxica.github.io/team/pablo-ramos-tito.webp",
+    "company": "GDG ICA",
+    "role": "Sponsors",
+    "topics": [
+      "SQL",
+      "Power BI",
+      "Python",
+      "Excel"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/pabloramost/"
+    }
+  },
+  {
+    "id": "ronaldo-alvarez",
+    "name": "Ronaldo Alvarez",
+    "bio": "UX/UI Designer, Graphic Designer",
+    "photo_url": "https://gdgxica.github.io/team/ronaldo-alvarez-uchuya.webp",
+    "company": "GDG ICA",
+    "role": "Community Manager",
+    "topics": [
+      "Adobe",
+      "GCP",
+      "UI",
+      "UX"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/ronaldo-alvarez-b76453240/"
+    }
+  },
+  {
+    "id": "alvaro-pena",
+    "name": "Alvaro Peña",
+    "bio": "Backend Developer",
+    "photo_url": "https://gdgxica.github.io/team/alvaro-pena.webp",
+    "company": "GDG ICA",
+    "role": "Desarrollo",
+    "topics": [
+      "Cloud",
+      "Python",
+      "Go",
+      "Backend",
+      "Kubernetes"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/aalvarop-pe/",
+      "github": "https://github.com/aalvaropc",
+      "web": "https://aalvaropc.vercel.app/"
+    }
+  },
+  {
+    "id": "geremy-hernandez",
+    "name": "Geremy Hernandez",
+    "bio": "Data Analyst",
+    "photo_url": "https://gdgxica.github.io/team/geremy-hernandez-pena.webp",
+    "company": "GDG ICA",
+    "role": "Logística",
+    "topics": [
+      "SQL",
+      "Power BI",
+      "R",
+      "Excel"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/geremy-alexander-hernandez-pe%C3%B1a-059a51267/"
+    }
+  },
+  {
+    "id": "david-licla",
+    "name": "David Licla",
+    "bio": "Frontend Engineer",
+    "photo_url": "https://gdgxica.github.io/team/david-licla.webp",
+    "company": "GDG ICA",
+    "role": "Technology",
+    "topics": [
+      "Next.js",
+      "a11y",
+      "i18n",
+      "Web Performance",
+      "TypeScript"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/davidmariolc/",
+      "twitter": "https://x.com/DavidMarioLC",
+      "github": "https://github.com/DavidMarioLC",
+      "web": "https://portafolio-davidmariolc.vercel.app/"
+    }
+  }
+]

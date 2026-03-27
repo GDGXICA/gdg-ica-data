@@ -1,0 +1,23 @@
+[
+  {
+    "id": "flutter-codelab",
+    "title": "Your first Flutter app",
+    "url": "https://codelabs.developers.google.com/codelabs/flutter-codelab-first",
+    "type": "codelab",
+    "topic": "Flutter"
+  },
+  {
+    "id": "firebase-flutter",
+    "title": "Firebase for Flutter",
+    "url": "https://firebase.google.com/codelabs/firebase-get-to-know-flutter",
+    "type": "codelab",
+    "topic": "Firebase"
+  },
+  {
+    "id": "gemini-dart",
+    "title": "Build with Gemini in Dart",
+    "url": "https://ai.google.dev/gemini-api/docs/quickstart?lang=dart",
+    "type": "codelab",
+    "topic": "AI"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "ronaldo-alvarez",
+  "name": "Ronaldo Alvarez",
+  "bio": "UX/UI Designer, Graphic Designer",
+  "photo_url": "https://gdgxica.github.io/team/ronaldo-alvarez-uchuya.webp",
+  "company": "GDG ICA",
+  "role": "Community Manager",
+  "topics": [
+    "Adobe",
+    "GCP",
+    "UI",
+    "UX"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/ronaldo-alvarez-b76453240/"
+  },
+  "talk_ids": []
+}

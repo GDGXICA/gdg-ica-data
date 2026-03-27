@@ -1,0 +1,98 @@
+[
+  {
+    "id": "flutter-start",
+    "title": "Empieza con Flutter",
+    "description": "Ruta para empezar a desarrollar apps con Flutter desde cero.",
+    "difficulty": "beginner",
+    "topics": [
+      "Flutter",
+      "Dart"
+    ],
+    "estimated_hours": 10,
+    "steps": [
+      {
+        "order": 1,
+        "title": "Instala Flutter",
+        "type": "article",
+        "url": "https://flutter.dev/docs/get-started/install",
+        "description": "Guia oficial",
+        "estimated_minutes": 30
+      },
+      {
+        "order": 2,
+        "title": "Tu primera app",
+        "type": "codelab",
+        "url": "https://codelabs.developers.google.com/codelabs/flutter-codelab-first",
+        "description": "Codelab oficial de Google",
+        "estimated_minutes": 60
+      },
+      {
+        "order": 3,
+        "title": "Layouts en Flutter",
+        "type": "article",
+        "url": "https://flutter.dev/docs/development/ui/layout",
+        "description": "Aprende a crear layouts",
+        "estimated_minutes": 45
+      }
+    ]
+  },
+  {
+    "id": "gemini-ai",
+    "title": "Intro a Gemini AI",
+    "description": "Aprende a usar la API de Gemini para integrar IA en tus apps.",
+    "difficulty": "intermediate",
+    "topics": [
+      "AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "estimated_hours": 8,
+    "steps": [
+      {
+        "order": 1,
+        "title": "Que es Gemini",
+        "type": "article",
+        "url": "https://ai.google.dev/",
+        "description": "Documentacion oficial",
+        "estimated_minutes": 20
+      },
+      {
+        "order": 2,
+        "title": "Gemini API Quickstart",
+        "type": "codelab",
+        "url": "https://ai.google.dev/gemini-api/docs/quickstart",
+        "description": "Tu primera llamada a la API",
+        "estimated_minutes": 45
+      }
+    ]
+  },
+  {
+    "id": "google-cloud-basics",
+    "title": "Google Cloud Basics",
+    "description": "Fundamentos de Google Cloud Platform.",
+    "difficulty": "intermediate",
+    "topics": [
+      "Cloud",
+      "GCP"
+    ],
+    "estimated_hours": 12,
+    "steps": [
+      {
+        "order": 1,
+        "title": "Intro a GCP",
+        "type": "video",
+        "url": "https://cloud.google.com/docs/overview",
+        "description": "Vision general",
+        "estimated_minutes": 15
+      },
+      {
+        "order": 2,
+        "title": "Cloud Run Quickstart",
+        "type": "codelab",
+        "url": "https://cloud.google.com/run/docs/quickstarts",
+        "description": "Despliega tu primer servicio",
+        "estimated_minutes": 30
+      }
+    ]
+  }
+]
