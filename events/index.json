@@ -1,10 +1,46 @@
 [
   {
+    "id": "build-with-ai-ica-2026",
+    "title": "Build with AI: Ica 2026",
+    "description": "La Inteligencia Artificial está redefiniendo la forma en que construimos tecnología. Build with AI: Ica 2026 es un evento presencial organizado por GDG Ica donde exploraremos las últimas herramientas y tecnologías de Google para construir soluciones con inteligencia artificial. Únete a una jornada de charlas, talleres y networking con expertos de la comunidad tech. Aprende sobre Google Cloud, Firebase, Flutter, Angular y más, todo potenciado por IA. ¡Construyamos juntos el futuro con inteligencia artificial!",
+    "date": "2026-05-09T07:00:00",
+    "end_time": "02:10 PM",
+    "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
+    "venue_address": "Universidad Tecnológica Del Perú S/N Avenida Ayabaca Ica, 11001",
+    "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
+    "image_url": "https://gdgxica.github.io/events/build-with-ai-ica-2026.webp",
+    "topics": [
+      "Build with AI",
+      "Google Cloud",
+      "AI",
+      "Career Development",
+      "Community Building",
+      "Firebase",
+      "Flutter",
+      "Networking",
+      "Get Certified",
+      "Web",
+      "Angular"
+    ],
+    "speaker_ids": [
+      "kevin-davila",
+      "brian-castillo",
+      "rafael-gonzales",
+      "tony-trujillo-davila"
+    ],
+    "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-build-with-ai-ica-2026/",
+    "materials": {},
+    "agenda": []
+  },
+  {
     "id": "devfest-2024",
     "title": "DevFest 2024",
-    "short_description": " Disfruta de charlas inspiradoras y aprendizaje de vanguardia",
+    "description": "¡DEVFEST ICA llega el 23 de noviembre! sumérgete en el mundo de la tecnología. Disfruta de charlas inspiradoras y aprendizaje de vanguardia",
     "date": "2024-11-23T09:00:00",
+    "end_time": "06:00 PM",
     "venue": "Universidad Continental, campus Ica",
+    "venue_address": "Universidad Continental, 95 Calle A Ica, Ica 11004",
+    "venue_map_url": "https://maps.app.goo.gl/rzTBgMfbCZwjmssm9",
     "image_url": "https://gdgxica.github.io/events/devfest-2024.webp",
     "topics": [
       "Cloud",
@@ -17,16 +53,118 @@
       "IA",
       "Web"
     ],
-    "category": "devfest",
-    "status": "completed",
-    "is_highlight": false
+    "speaker_ids": [
+      "bruno-aybar-guerrero"
+    ],
+    "registration_url": null,
+    "materials": {},
+    "agenda": [
+      {
+        "time": "08:30 AM - 09:30 AM",
+        "title": "Registro de asistentes",
+        "speaker": "Fiorella Ariás"
+      },
+      {
+        "time": "09:30 AM - 09:40 AM",
+        "title": "Inauguración DevFest Ica",
+        "speaker": "Eduardo Ormeño"
+      },
+      {
+        "time": "09:40 AM - 09:45 AM",
+        "title": "Bienvenida - Cámara de Comercio",
+        "speaker": "Eduardo Ojeda"
+      },
+      {
+        "time": "09:45 AM - 10:15 AM",
+        "title": "Las soft skills que todo ingeniero de software necesita.",
+        "speaker": "Luis Landa"
+      },
+      {
+        "time": "10:15 AM - 10:45 AM",
+        "title": "404: Impuestos no Encontrados - Evita Errores Fiscales con SUNAT",
+        "speaker": "Jimy Dolores"
+      },
+      {
+        "time": "10:45 AM - 11:10 AM",
+        "title": "Desarrollo web colaborativo en la nube con GitHub Codespaces y Copilot.",
+        "speaker": "Eduardo Ormeño"
+      },
+      {
+        "time": "11:15 AM - 11:40 AM",
+        "title": "Transformando la Educación con Realidad Virtual e IA",
+        "speaker": "Miguel Córdova"
+      },
+      {
+        "time": "11:45 AM - 12:10 AM",
+        "title": "IA en la web: Cómo integrar inteligencia artificial en tus aplicaciones web",
+        "speaker": "Damián Siré"
+      },
+      {
+        "time": "12:15 AM - 12:40 AM",
+        "title": "¿Cómo iniciar en el desarrollo móvil en el 2024?",
+        "speaker": "Bruno Aybar"
+      },
+      {
+        "time": "12:45 AM - 01:40 PM",
+        "title": "Los skills que no aparecen en listados que necesitas para no fracasar como dev",
+        "speaker": "Noe Branagan"
+      },
+      {
+        "time": "01:15 AM - 03:00 PM",
+        "title": "Break + Networking",
+        "speaker": ""
+      },
+      {
+        "time": "03:00 PM - 03:25 PM",
+        "title": "¡Despierta tu creatividad! Crea tu primera app increíble con Flutter",
+        "speaker": "Hansy Smitch"
+      },
+      {
+        "time": "03:00 PM - 03:25 PM",
+        "title": "El perfecto candidato: ¿La IA o yo?",
+        "speaker": "Isabel Cordova"
+      },
+      {
+        "time": "04:00 PM - 04:25 PM",
+        "title": "Creación de aplicaciones de Android con agentes de Inteligencia Artificial",
+        "speaker": "Santiago Carrillo"
+      },
+      {
+        "time": "04:30 PM - 04:55 PM",
+        "title": "El futuro del trabajo en IT: De lo técnico a lo humano",
+        "speaker": "Joel Ibaceta"
+      },
+      {
+        "time": "05:30 PM - 05:55 PM",
+        "title": "Usando Servicios de Google para crear videojuegos de éxito",
+        "speaker": "Rafael Gonzales"
+      },
+      {
+        "time": "06:00 PM - 06:25 PM",
+        "title": "¡Vamos a divertirnos jugando con IA en tu app de Angular usando Gemini!",
+        "speaker": "Will Mendes"
+      },
+      {
+        "time": "06:00 PM - 06:25 PM",
+        "title": "Cierre del evento",
+        "speaker": "Eduardo Ormeño"
+      },
+      {
+        "time": "06:25 PM - 07:00 PM",
+        "title": "Break + Networking",
+        "speaker": ""
+      }
+    ]
   },
   {
     "id": "devfest-2025",
     "title": "DevFest 2025",
-    "short_description": "El festival más grande de tecnología de la región con IA, Cloud, ML, Android y más",
+    "description": "¡DevFest Ica 2025 llega el 29 de noviembre! Únete al festival de tecnología más grande de la región. Explora las últimas tendencias en IA, Android, Angular, Cloud Computing, Machine Learning y mucho más. Conecta con desarrolladores, aprende de expertos y descubre cómo la tecnología está transformando el mundo. ¡Una experiencia imperdible para la comunidad tech de Ica!",
     "date": "2025-11-29T08:00:00",
+    "end_time": "01:30 PM",
     "venue": "Zegel Ica",
+    "venue_address": "Zegel - Sede Ica, Av Cutervo cutervo",
+    "venue_map_url": "https://maps.app.goo.gl/ZegelIcaSede",
     "image_url": "https://gdgxica.github.io/events/devfest-2025.webp",
     "topics": [
       "Cloud",
@@ -42,16 +180,32 @@
       "IA",
       "Web"
     ],
-    "category": "devfest",
-    "status": "completed",
-    "is_highlight": true
+    "speaker_ids": [
+      "michael-sontheimer",
+      "aldo-malaver",
+      "josselyn-hinostroza",
+      "giancarlos-sandoval",
+      "wilma-paca-patzi",
+      "sigmund-mandel",
+      "luis-uculmana",
+      "daniel-carbajal",
+      "david-contreras",
+      "jose-hurtado",
+      "eduardo-ormeno"
+    ],
+    "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2025/",
+    "materials": {},
+    "agenda": []
   },
   {
     "id": "google-cloud",
     "title": "Google Cloud",
-    "short_description": "Introducción a GCP: computación, datos, IA y ML en la nube de Google",
+    "description": "¡Únete a nosotros en este evento exclusivo de Google Cloud y descubre cómo las herramientas y servicios de la nube pueden transformar el desarrollo, la infraestructura y la innovación en tu organización! A lo largo de esta sesión, exploraremos las soluciones clave que ofrece Google Cloud Platform (GCP), desde computación escalable y almacenamiento inteligente hasta herramientas de análisis de datos, inteligencia artificial y machine learning.",
     "date": "2025-06-21T09:00:00",
+    "end_time": "01:00 PM",
     "venue": "Zegel - Sede Ica",
+    "venue_address": "Zegel - Sede Ica, Av Cutervo cutervo",
+    "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
     "image_url": "https://gdgxica.github.io/events/google-cloud.webp",
     "topics": [
       "Cloud",
@@ -62,40 +216,73 @@
       "IA",
       "Machine Learning"
     ],
-    "category": "studyjam",
-    "status": "completed",
-    "is_highlight": false
-  },
-  {
-    "id": "build-with-ai-ica-2026",
-    "title": "Build with AI: Ica 2026",
-    "short_description": "Construyendo el futuro con Inteligencia Artificial",
-    "date": "2026-05-09T07:00:00",
-    "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
-    "image_url": "https://gdgxica.github.io/events/build-with-ai-ica-2026.webp",
-    "topics": [
-      "Build with AI",
-      "Google Cloud",
-      "AI",
-      "Career Development",
-      "Community Building",
-      "Firebase",
-      "Flutter",
-      "Networking",
-      "Get Certified",
-      "Web",
-      "Angular"
+    "speaker_ids": [
+      "tony-trujillo"
     ],
-    "category": "meetup",
-    "status": "upcoming",
-    "is_highlight": true
+    "registration_url": "",
+    "materials": {},
+    "agenda": [
+      {
+        "time": "08:00 AM - 09:00 AM",
+        "title": "Registro de asistentes",
+        "speaker": "Fiorella Ariás"
+      },
+      {
+        "time": "09:00 AM - 09:15 PM",
+        "title": "Inicio del evento",
+        "speaker": "Eduardo Ormeño"
+      },
+      {
+        "time": "09:15 AM - 10:15 PM",
+        "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte I",
+        "speaker": "Tony Trujillo"
+      },
+      {
+        "time": "10:15 AM - 10:30 PM",
+        "title": "Break + Networking",
+        "speaker": ""
+      },
+      {
+        "time": "10:30 AM - 11:15 PM",
+        "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte II",
+        "speaker": "Tony Trujillo"
+      },
+      {
+        "time": "11:15 AM - 11:30 PM",
+        "title": "Break + Networking",
+        "speaker": ""
+      },
+      {
+        "time": "11:30 AM - 12:00 PM",
+        "title": "Dinámica",
+        "speaker": "Pablo Ramos"
+      },
+      {
+        "time": "12:00 AM - 01:00 PM",
+        "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte III",
+        "speaker": "Tony Trujillo"
+      },
+      {
+        "time": "01:00 AM - 01:15 PM",
+        "title": "Cierre del evento",
+        "speaker": "Eduardo Ormeño"
+      },
+      {
+        "time": "01:15 AM - 02:00 PM",
+        "title": "Break + Networking",
+        "speaker": ""
+      }
+    ]
   },
   {
     "id": "w-avoiding-frankenstein-apps-2026",
     "title": "Evitando \"Aplicaciones Frankenstein\" generadas por AI Coding usando SDD y Antigravity",
-    "short_description": "Taller virtual de IA y Vibe Coding con Antigravity para crear software sostenible",
+    "description": "La IA ha permitido acelerar el desarrollo de aplicaciones, logrando una mayor productividad en esta área y facilitando la creación masiva de aplicaciones pequeñas y componentes de software dentro de un sistema mayor. Sin embargo, si no se dirige correctamente, puede generar código difícil de mantener, complejo de analizar, arduo de testear y con una alta deuda técnica. Es por ello que resurgen con más fuerza que nunca prácticas como DDD (Domain-Driven Design) o SDD (Software Design Document). Estos enfoques de desarrollo permiten que las herramientas de AI Coding tengan menos desvíos y alucinaciones, logrando construir software sostenible. En esta charla abordaremos estos enfoques de forma práctica, utilizando herramientas de IA como Antigravity para crear software robusto y mantenible.",
     "date": "2026-02-21T14:00:00",
+    "end_time": "04:00 PM",
     "venue": "",
+    "venue_address": "",
+    "venue_map_url": "",
     "image_url": "https://gdgxica.github.io/events/w-avoiding-frankenstein-apps-2026.webp",
     "topics": [
       "AI",
@@ -105,8 +292,22 @@
       "Cloud",
       "Google Cloud"
     ],
-    "category": "wtm",
-    "status": "completed",
-    "is_highlight": false
+    "speaker_ids": [
+      "juan-guillermo-gomez-torres"
+    ],
+    "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-taller-virtual-evitando-aplicaciones-frankenstein-generadas-por-ai-coding-usando-sdd-y-antigravity/",
+    "materials": {},
+    "agenda": [
+      {
+        "time": "02:00 PM - 2:15 PM",
+        "title": "Inicio del evento",
+        "speaker": "Eduardo Ormeño"
+      },
+      {
+        "time": "02:15 PM - 04:00 PM",
+        "title": "Evitando \"Aplicaciones Frankenstein\" generadas por AI Coding usando SDD y Antigravity",
+        "speaker": "Juan Guillermo Gómez Torres"
+      }
+    ]
   }
 ]

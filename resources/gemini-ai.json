@@ -1,0 +1,30 @@
+{
+  "id": "gemini-ai",
+  "title": "Intro a Gemini AI",
+  "description": "Aprende a usar la API de Gemini para integrar IA en tus apps.",
+  "difficulty": "intermediate",
+  "topics": [
+    "AI",
+    "Gemini",
+    "Google Cloud"
+  ],
+  "estimated_hours": 8,
+  "steps": [
+    {
+      "order": 1,
+      "title": "Que es Gemini",
+      "type": "article",
+      "url": "https://ai.google.dev/",
+      "description": "Documentacion oficial",
+      "estimated_minutes": 20
+    },
+    {
+      "order": 2,
+      "title": "Gemini API Quickstart",
+      "type": "codelab",
+      "url": "https://ai.google.dev/gemini-api/docs/quickstart",
+      "description": "Tu primera llamada a la API",
+      "estimated_minutes": 45
+    }
+  ]
+}

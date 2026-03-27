@@ -1,0 +1,29 @@
+{
+  "id": "google-cloud-basics",
+  "title": "Google Cloud Basics",
+  "description": "Fundamentos de Google Cloud Platform.",
+  "difficulty": "intermediate",
+  "topics": [
+    "Cloud",
+    "GCP"
+  ],
+  "estimated_hours": 12,
+  "steps": [
+    {
+      "order": 1,
+      "title": "Intro a GCP",
+      "type": "video",
+      "url": "https://cloud.google.com/docs/overview",
+      "description": "Vision general",
+      "estimated_minutes": 15
+    },
+    {
+      "order": 2,
+      "title": "Cloud Run Quickstart",
+      "type": "codelab",
+      "url": "https://cloud.google.com/run/docs/quickstarts",
+      "description": "Despliega tu primer servicio",
+      "estimated_minutes": 30
+    }
+  ]
+}

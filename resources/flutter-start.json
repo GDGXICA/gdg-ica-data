@@ -1,0 +1,37 @@
+{
+  "id": "flutter-start",
+  "title": "Empieza con Flutter",
+  "description": "Ruta para empezar a desarrollar apps con Flutter desde cero.",
+  "difficulty": "beginner",
+  "topics": [
+    "Flutter",
+    "Dart"
+  ],
+  "estimated_hours": 10,
+  "steps": [
+    {
+      "order": 1,
+      "title": "Instala Flutter",
+      "type": "article",
+      "url": "https://flutter.dev/docs/get-started/install",
+      "description": "Guia oficial",
+      "estimated_minutes": 30
+    },
+    {
+      "order": 2,
+      "title": "Tu primera app",
+      "type": "codelab",
+      "url": "https://codelabs.developers.google.com/codelabs/flutter-codelab-first",
+      "description": "Codelab oficial de Google",
+      "estimated_minutes": 60
+    },
+    {
+      "order": 3,
+      "title": "Layouts en Flutter",
+      "type": "article",
+      "url": "https://flutter.dev/docs/development/ui/layout",
+      "description": "Aprende a crear layouts",
+      "estimated_minutes": 45
+    }
+  ]
+}
