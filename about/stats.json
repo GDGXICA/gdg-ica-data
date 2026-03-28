@@ -1,7 +1,18 @@
 {
-  "total_members": 398,
-  "total_events": 5,
+  "total_members": 1000,
+  "total_events": 50,
   "total_talks": 32,
-  "total_speakers": 23,
-  "updated_at": "2026-03-27T18:17:01.058480"
+  "total_speakers": 25,
+  "years_active": 10,
+  "total_organizers": 7,
+  "developers_mentored": 200,
+  "total_sponsors": 15,
+  "annual_support": "$50k",
+  "sponsored_events": 100,
+  "developers_reached": 5000,
+  "active_volunteers": 50,
+  "volunteer_hours": 1500,
+  "events_supported": 100,
+  "volunteer_areas": 9,
+  "updated_at": "2026-03-28T00:00:00Z"
 }
