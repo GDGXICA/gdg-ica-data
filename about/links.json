@@ -1,0 +1,16 @@
+{
+  "forms": {
+    "join_community": "https://docs.google.com/forms/d/1PsmZeCg9ru2-iS1d5RdrgiFpunyWkemoK2962YMxJZw/viewform?edit_requested=true",
+    "propose_event": "https://forms.gle/zs2xk6z9zZatNp9YA",
+    "join_team": "https://forms.gle/AHbkg4KqVjMBd1Ez7",
+    "sponsor": "https://forms.gle/EDCifZXFw8eLmedy8",
+    "volunteer": "https://forms.gle/97KgM4coVbZ7fkR86",
+    "contact": "https://forms.gle/ruApdHsVECRakKJ88"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/gdg-ica",
+    "facebook": "https://www.facebook.com/gdgica",
+    "instagram": "https://www.instagram.com/gdgica/"
+  },
+  "community": "https://gdg.community.dev/gdg-ica/"
+}
