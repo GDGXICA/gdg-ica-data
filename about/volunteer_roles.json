@@ -1,0 +1,74 @@
+[
+  {
+    "id": "photography",
+    "title": "Fotografía y Video",
+    "description": "Captura los mejores momentos de nuestros eventos y ayuda a crear contenido visual.",
+    "icon": "camera",
+    "icon_color": "#A855F7",
+    "skills": ["Fotografía", "Edición", "Creación"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "tech-support",
+    "title": "Soporte Técnico",
+    "description": "Ayuda con setup de audio/video, streaming y soporte técnico durante eventos.",
+    "icon": "headphones",
+    "icon_color": "#3B82F6",
+    "skills": ["Conocimiento AV", "Paciencia", "Resolución de problemas"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "attendee-support",
+    "title": "Atención a Asistentes",
+    "description": "Da la bienvenida, gestiona registro y ayuda a los asistentes durante eventos.",
+    "icon": "handshake",
+    "icon_color": "#10B981",
+    "skills": ["Comunicación", "Organización", "Amabilidad"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "graphic-design",
+    "title": "Diseño Gráfico",
+    "description": "Crea materiales visuales, posters y contenido para redes sociales.",
+    "icon": "paintbrush",
+    "icon_color": "#EF4444",
+    "skills": ["Comunicación", "Organización", "Amabilidad"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "social-media",
+    "title": "Redes Sociales",
+    "description": "Ayuda a gestionar redes sociales y crear contenido para promocionar eventos.",
+    "icon": "megaphone",
+    "icon_color": "#F97316",
+    "skills": ["Comunicación", "Organización", "Amabilidad"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "translation",
+    "title": "Traducción y Contenido",
+    "description": "Traduce materiales técnicos y ayuda a crear contenido educativo.",
+    "icon": "languages",
+    "icon_color": "#3B82F6",
+    "skills": ["Comunicación", "Organización", "Amabilidad"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "mentoring",
+    "title": "Mentoring Técnico",
+    "description": "Mentora a desarrolladores junior durante workshops y code labs.",
+    "icon": "code-2",
+    "icon_color": "#EF4444",
+    "skills": ["Comunicación", "Organización", "Amabilidad"],
+    "commitment": "4-6 horas por evento"
+  },
+  {
+    "id": "logistics",
+    "title": "Logística General",
+    "description": "Ayuda con tareas generales de organización y logística de eventos.",
+    "icon": "boxes",
+    "icon_color": "#F59E0B",
+    "skills": ["Comunicación", "Organización", "Amabilidad"],
+    "commitment": "4-6 horas por evento"
+  }
+]
