@@ -26,12 +26,15 @@
     "Kevin Dávila",
     "Brian Castillo",
     "Rafael Gonzales",
-    "Tony Trujillo Dávila"
+    "Tony Trujillo Dávila",
+    "Gianmarco Guerrero Menacho",
+    "Ana Valdespino",
+    "Rafael Sansores Majul"
   ],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-build-with-ai-ica-2026/",
   "is_virtual": false,
   "is_highlight": true,
-  "participants": 128,
+  "participants": 147,
   "max_participants": 1000,
   "category": "meetup",
   "status": "upcoming",
@@ -51,6 +54,9 @@
     "kevin-davila",
     "brian-castillo",
     "rafael-gonzales",
-    "tony-trujillo-davila"
+    "tony-trujillo-davila",
+    "gianmarco-guerrero",
+    "ana-valdespino",
+    "rafael-sansores"
   ]
 }

@@ -363,5 +363,50 @@
     ],
     "social_links": {},
     "talk_ids": []
+  },
+  {
+    "id": "gianmarco-guerrero",
+    "name": "Gianmarco Guerrero Menacho",
+    "bio": "Organizador de comunidades tech y co-organizador de CodeOn, involucrado con LEAD UPN y GDG Open",
+    "photo_url": "https://gdgxica.github.io/speakers/gianmarco-guerrero.webp",
+    "company": "LEAD UPN",
+    "role": "Tech Community Organizer",
+    "topics": [
+      "AI",
+      "Community Building",
+      "Web"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "ana-valdespino",
+    "name": "Ana Valdespino",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/ana-valdespino.webp",
+    "company": "",
+    "role": "",
+    "topics": [
+      "AI",
+      "Career Development"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "rafael-sansores",
+    "name": "Rafael Sansores Majul",
+    "bio": "Experto en marketing digital y estrategia de contenidos con más de una década de experiencia. LinkedIn Top Voice en Marketing y Ventas",
+    "photo_url": "https://gdgxica.github.io/speakers/rafael-sansores.webp",
+    "company": "Avenue Media",
+    "role": "Director de Marketing & Editor en Jefe de Inspiras Magazine",
+    "topics": [
+      "Career Development",
+      "Community Building"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/rafaelsansoresmajul/"
+    },
+    "talk_ids": []
   }
 ]
