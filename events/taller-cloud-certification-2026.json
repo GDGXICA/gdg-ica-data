@@ -1,0 +1,43 @@
+{
+  "id": "taller-cloud-certification-2026",
+  "title": "Taller intensivo: prepárate para certificarte en Cloud (AWS & Google Cloud)",
+  "description": "Aprende los fundamentos clave de la computación en la nube y todo lo necesario para iniciar tu camino hacia la certificación en Cloud. En este taller intensivo organizado por GDG Ica, exploraremos los conceptos esenciales de AWS y Google Cloud, con ejercicios prácticos y orientación para prepararte para los exámenes de certificación.",
+  "short_description": "Prepárate para certificarte en AWS y Google Cloud",
+  "date": "2026-04-18T08:30:00",
+  "end_time": "12:30 PM",
+  "venue": "Zegel - Sede Ica",
+  "venue_address": "Cuadra 10 Avenida Cutervo, Ica, 11001",
+  "venue_map_url": "",
+  "image_url": "",
+  "topics": [
+    "Google Cloud",
+    "AWS",
+    "Cloud",
+    "Career Development",
+    "Get Certified"
+  ],
+  "speaker_names": [
+    "Jürgen Guerra",
+    "Natali Lujan",
+    "Eddy Rodriguez"
+  ],
+  "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-taller-intensivo-preparate-para-certificarte-en-cloud-aws-amp-google-cloud/",
+  "is_virtual": false,
+  "is_highlight": false,
+  "participants": 46,
+  "max_participants": 60,
+  "category": "workshop",
+  "status": "upcoming",
+  "materials": {},
+  "requirements": [
+    "Registrarse",
+    "Ser puntuales"
+  ],
+  "includes": [],
+  "agenda": [],
+  "speaker_ids": [
+    "jurgen-guerra",
+    "natali-lujan",
+    "eddy-rodriguez"
+  ]
+}

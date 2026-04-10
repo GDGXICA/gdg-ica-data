@@ -318,5 +318,50 @@
     "topics": [],
     "social_links": {},
     "talk_ids": []
+  },
+  {
+    "id": "jurgen-guerra",
+    "name": "Jürgen Guerra",
+    "bio": "",
+    "photo_url": "",
+    "company": "",
+    "role": "",
+    "topics": [
+      "Cloud",
+      "AWS",
+      "Google Cloud"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "natali-lujan",
+    "name": "Natali Lujan",
+    "bio": "",
+    "photo_url": "",
+    "company": "",
+    "role": "",
+    "topics": [
+      "Cloud",
+      "AWS",
+      "Google Cloud"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "eddy-rodriguez",
+    "name": "Eddy Rodriguez",
+    "bio": "",
+    "photo_url": "",
+    "company": "",
+    "role": "",
+    "topics": [
+      "Cloud",
+      "AWS",
+      "Google Cloud"
+    ],
+    "social_links": {},
+    "talk_ids": []
   }
 ]
