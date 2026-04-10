@@ -34,10 +34,10 @@
   {
     "id": "brian-castillo",
     "name": "Brian Castillo",
-    "bio": "",
+    "bio": "Organizador de comunidades tech y colaborador de GDG Open Lima",
     "photo_url": "https://gdgxica.github.io/speakers/brian-castillo.webp",
-    "company": "",
-    "role": "",
+    "company": "GDG Open Lima",
+    "role": "Community Organizer",
     "topics": [],
     "social_links": {},
     "talk_ids": []
@@ -186,10 +186,10 @@
   {
     "id": "kevin-davila",
     "name": "Kevin Dávila",
-    "bio": "",
+    "bio": "Frontend developer con más de 4 años de experiencia en desarrollo web, ganador del 3er lugar en COMFECO 2021",
     "photo_url": "https://gdgxica.github.io/speakers/kevin-davila.webp",
-    "company": "",
-    "role": "",
+    "company": "dotCMS",
+    "role": "Frontend Developer",
     "topics": [],
     "social_links": {},
     "talk_ids": []
@@ -247,10 +247,10 @@
   {
     "id": "rafael-gonzales",
     "name": "Rafael Gonzales",
-    "bio": "",
+    "bio": "Desarrollador especializado en videojuegos y servicios de Google, speaker en DevFest Ica 2024",
     "photo_url": "https://gdgxica.github.io/speakers/rafael-gonzales.webp",
     "company": "",
-    "role": "",
+    "role": "Game Developer",
     "topics": [],
     "social_links": {},
     "talk_ids": []
@@ -287,10 +287,10 @@
   {
     "id": "tony-trujillo-davila",
     "name": "Tony Trujillo Dávila",
-    "bio": "",
+    "bio": "Data Architect con certificaciones en Azure 7x, DataBricks 3x, AWS 2x, Google 2x y MCT Trainer en Big Data",
     "photo_url": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
-    "company": "",
-    "role": "",
+    "company": "IDATHA",
+    "role": "Data Architect & MCT Trainer",
     "topics": [],
     "social_links": {},
     "talk_ids": []
@@ -382,10 +382,10 @@
   {
     "id": "ana-valdespino",
     "name": "Ana Valdespino",
-    "bio": "",
+    "bio": "Experta en marketing con enfoque en inteligencia artificial aplicada al proceso creativo",
     "photo_url": "https://gdgxica.github.io/speakers/ana-valdespino.webp",
-    "company": "",
-    "role": "",
+    "company": "Nielsen",
+    "role": "VP de Marketing LATAM",
     "topics": [
       "AI",
       "Career Development"
