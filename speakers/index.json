@@ -322,10 +322,10 @@
   {
     "id": "jurgen-guerra",
     "name": "Jürgen Guerra",
-    "bio": "",
+    "bio": "Miembro activo de AWS Student Community Peru y AWS Cloud Clubs, apasionado por la computación en la nube y la formación de comunidades tech universitarias",
     "photo_url": "https://gdgxica.github.io/speakers/jurgen-guerra.webp",
-    "company": "",
-    "role": "",
+    "company": "AWS Cloud Club - UTP",
+    "role": "AWS Cloud Club Captain",
     "topics": [
       "Cloud",
       "AWS",
@@ -337,10 +337,10 @@
   {
     "id": "natali-lujan",
     "name": "Natali Lujan",
-    "bio": "",
+    "bio": "Líder de proyectos en Data & IA con experiencia en GCP, Azure y AWS. Ingeniera Estadística e Informática, speaker en comunidades GDG Cloud",
     "photo_url": "https://gdgxica.github.io/speakers/natali-lujan.webp",
-    "company": "",
-    "role": "",
+    "company": "Indra",
+    "role": "Líder de Proyectos en Data & IA",
     "topics": [
       "Cloud",
       "AWS",
@@ -352,10 +352,10 @@
   {
     "id": "eddy-rodriguez",
     "name": "Eddy Rodriguez",
-    "bio": "",
+    "bio": "Ingeniero de Sistemas con más de 14 años de experiencia liderando proyectos y equipos, con certificaciones en Cloud, DevOps y Scrum",
     "photo_url": "https://gdgxica.github.io/speakers/eddy-rodriguez.webp",
-    "company": "",
-    "role": "",
+    "company": "DTE Innovations",
+    "role": "Cloud Engineer",
     "topics": [
       "Cloud",
       "AWS",

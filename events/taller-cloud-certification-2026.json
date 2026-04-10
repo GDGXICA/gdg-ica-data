@@ -7,7 +7,7 @@
   "end_time": "12:30 PM",
   "venue": "Zegel - Sede Ica",
   "venue_address": "Cuadra 10 Avenida Cutervo, Ica, 11001",
-  "venue_map_url": "",
+  "venue_map_url": "https://maps.app.goo.gl/ZegelIcaSede",
   "image_url": "https://gdgxica.github.io/events/taller-cloud-certification-2026.webp",
   "topics": [
     "Google Cloud",
@@ -33,7 +33,12 @@
     "Registrarse",
     "Ser puntuales"
   ],
-  "includes": [],
+  "includes": [
+    "Laboratorio moderno",
+    "Certificado de participación",
+    "Coffee breaks",
+    "Networking con la comunidad tech"
+  ],
   "agenda": [],
   "speaker_ids": [
     "jurgen-guerra",

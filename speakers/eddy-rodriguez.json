@@ -1,10 +1,10 @@
 {
   "id": "eddy-rodriguez",
   "name": "Eddy Rodriguez",
-  "bio": "",
+  "bio": "Ingeniero de Sistemas con más de 14 años de experiencia liderando proyectos y equipos, con certificaciones en Cloud, DevOps y Scrum",
   "photo_url": "https://gdgxica.github.io/speakers/eddy-rodriguez.webp",
-  "company": "",
-  "role": "",
+  "company": "DTE Innovations",
+  "role": "Cloud Engineer",
   "topics": [
     "Cloud",
     "AWS",
