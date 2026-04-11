@@ -51,7 +51,7 @@
       "time": "09:00 AM - 09:15 PM",
       "title": "Inicio del evento",
       "speaker": "Eduardo Ormeño",
-      "image": "/team/eduardo-ormeno.webp",
+      "image": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
       "role": "Organizador",
       "type": "event"
     },
@@ -59,7 +59,7 @@
       "time": "09:15 AM - 10:15 PM",
       "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte I",
       "speaker": "Tony Trujillo",
-      "image": "/speakers/tony-trujillo.webp",
+      "image": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
       "role": "Data Architect @IDATHA",
       "type": "event"
     },
@@ -75,7 +75,7 @@
       "time": "10:30 AM - 11:15 PM",
       "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte II",
       "speaker": "Tony Trujillo",
-      "image": "/speakers/tony-trujillo.webp",
+      "image": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
       "role": "Data Architect @IDATHA",
       "type": "event"
     },
@@ -91,7 +91,7 @@
       "time": "11:30 AM - 12:00 PM",
       "title": "Dinámica",
       "speaker": "Pablo Ramos",
-      "image": "/team/pablo-ramos-tito.webp",
+      "image": "https://gdgxica.github.io/team/pablo-ramos-tito.webp",
       "role": "Organizador",
       "type": "event"
     },
@@ -99,7 +99,7 @@
       "time": "12:00 AM - 01:00 PM",
       "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte III",
       "speaker": "Tony Trujillo",
-      "image": "/speakers/tony-trujillo.webp",
+      "image": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
       "role": "Data Architect @IDATHA",
       "type": "event"
     },
@@ -107,7 +107,7 @@
       "time": "01:00 AM - 01:15 PM",
       "title": "Cierre del evento",
       "speaker": "Eduardo Ormeño",
-      "image": "/team/eduardo-ormeno.webp",
+      "image": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
       "role": "Organizador",
       "type": "event"
     },
@@ -127,5 +127,22 @@
     "Cloud",
     "GCP",
     "Google Cloud"
+  ],
+  "sponsors": [
+    {
+      "id": "2",
+      "image_url": "https://gdgxica.github.io/sponsors/github.svg",
+      "alt": "Github"
+    },
+    {
+      "id": "3",
+      "image_url": "https://gdgxica.github.io/sponsors/chocotejas-don-juan.webp",
+      "alt": "Chocotejas Don Juan"
+    },
+    {
+      "id": "4",
+      "image_url": "https://gdgxica.github.io/sponsors/zegel.webp",
+      "alt": "Zegel"
+    }
   ]
 }

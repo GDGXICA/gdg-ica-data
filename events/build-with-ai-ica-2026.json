@@ -58,5 +58,17 @@
     "gianmarco-guerrero",
     "ana-valdespino",
     "rafael-sansores"
+  ],
+  "sponsors": [
+    {
+      "id": "1",
+      "image_url": "https://gdgxica.github.io/sponsors/google.svg",
+      "alt": "Google"
+    },
+    {
+      "id": "2",
+      "image_url": "https://gdgxica.github.io/sponsors/utp.webp",
+      "alt": "UTP"
+    }
   ]
 }

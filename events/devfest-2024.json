@@ -50,7 +50,7 @@
       "time": "09:30 AM - 09:40 AM",
       "title": "Inauguración DevFest Ica",
       "speaker": "Eduardo Ormeño",
-      "image": "/team/eduardo-ormeno.webp",
+      "image": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
       "role": "GDG Ica",
       "type": "event"
     },
@@ -178,7 +178,7 @@
       "time": "06:00 PM - 06:25 PM",
       "title": "Cierre del evento",
       "speaker": "Eduardo Ormeño",
-      "image": "/team/eduardo-ormeno.webp",
+      "image": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
       "role": "GDG Ica",
       "type": "event"
     },
@@ -202,5 +202,17 @@
     "Flutter",
     "GCP",
     "Cloud"
+  ],
+  "sponsors": [
+    {
+      "id": "1",
+      "image_url": "https://gdgxica.github.io/sponsors/google.svg",
+      "alt": "Google"
+    },
+    {
+      "id": "2",
+      "image_url": "https://gdgxica.github.io/sponsors/github.svg",
+      "alt": "Github"
+    }
   ]
 }
