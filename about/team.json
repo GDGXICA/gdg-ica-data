@@ -10,7 +10,8 @@
       "github": "https://github.com/eduardoorm",
       "web": "https://eduardoorm.vercel.app/"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "luis-uculmana",
@@ -22,7 +23,8 @@
       "linkedin": "https://www.linkedin.com/in/ithecode/",
       "github": "https://github.com/iTheCode"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "pablo-ramos",
@@ -33,7 +35,8 @@
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/pabloramost/"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "ronaldo-alvarez",
@@ -44,7 +47,8 @@
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/ronaldo-alvarez-b76453240/"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "alvaro-pena",
@@ -57,7 +61,8 @@
       "github": "https://github.com/aalvaropc",
       "web": "https://aalvaropc.vercel.app/"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "geremy-hernandez",
@@ -68,7 +73,8 @@
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/geremy-alexander-hernandez-pe%C3%B1a-059a51267/"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "david-licla",
@@ -82,7 +88,8 @@
       "github": "https://github.com/DavidMarioLC",
       "web": "https://portafolio-davidmariolc.vercel.app/"
     },
-    "type": "organizer"
+    "type": "organizer",
+    "is_active": true
   },
   {
     "id": "miguel-vivar",
@@ -95,7 +102,8 @@
       "github": "https://github.com/MiguelVivar",
       "web": "https://www.miguelvivar.engineer/"
     },
-    "type": "member"
+    "type": "member",
+    "is_active": true
   },
   {
     "id": "jeremy-fernandez",
@@ -108,7 +116,8 @@
       "github": "https://github.com/JeffCodeEasy",
       "web": "https://jeremyfernandez.netlify.app/"
     },
-    "type": "member"
+    "type": "member",
+    "is_active": true
   },
   {
     "id": "nikcol-uribe",
@@ -119,6 +128,7 @@
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/nikcol-uribe-huamani-324568289/"
     },
-    "type": "member"
+    "type": "member",
+    "is_active": true
   }
 ]
