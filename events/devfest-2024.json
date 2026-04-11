@@ -41,100 +41,166 @@
     {
       "time": "08:30 AM - 09:30 AM",
       "title": "Registro de asistentes",
-      "speaker": "Fiorella Ariás"
+      "speaker": "Fiorella Ariás",
+      "image": "/placeholder.svg",
+      "role": "GDG Ica",
+      "type": "event"
     },
     {
       "time": "09:30 AM - 09:40 AM",
       "title": "Inauguración DevFest Ica",
-      "speaker": "Eduardo Ormeño"
+      "speaker": "Eduardo Ormeño",
+      "image": "/team/eduardo-ormeno.webp",
+      "role": "GDG Ica",
+      "type": "event"
     },
     {
       "time": "09:40 AM - 09:45 AM",
       "title": "Bienvenida - Cámara de Comercio",
-      "speaker": "Eduardo Ojeda"
+      "speaker": "Eduardo Ojeda",
+      "image": "",
+      "role": "Presidente de la Cámara de Comercio Ica",
+      "type": "event"
     },
     {
       "time": "09:45 AM - 10:15 AM",
       "title": "Las soft skills que todo ingeniero de software necesita.",
-      "speaker": "Luis Landa"
+      "speaker": "Luis Landa",
+      "image": "",
+      "role": "Agile Coach @NTTDATA",
+      "type": "event"
     },
     {
       "time": "10:15 AM - 10:45 AM",
       "title": "404: Impuestos no Encontrados - Evita Errores Fiscales con SUNAT",
-      "speaker": "Jimy Dolores"
+      "speaker": "Jimy Dolores",
+      "image": "",
+      "role": "Frontend Lead @NTTDATA",
+      "type": "event"
     },
     {
       "time": "10:45 AM - 11:10 AM",
       "title": "Desarrollo web colaborativo en la nube con GitHub Codespaces y Copilot.",
-      "speaker": "Eduardo Ormeño"
+      "speaker": "Eduardo Ormeño",
+      "image": "",
+      "role": "GitHub Campus Expert",
+      "type": "event"
     },
     {
       "time": "11:15 AM - 11:40 AM",
       "title": "Transformando la Educación con Realidad Virtual e IA",
-      "speaker": "Miguel Córdova"
+      "speaker": "Miguel Córdova",
+      "image": "",
+      "role": "Director de Tecnología Digitales U.C",
+      "type": "event"
     },
     {
       "time": "11:45 AM - 12:10 AM",
       "title": "IA en la web: Cómo integrar inteligencia artificial en tus aplicaciones web",
-      "speaker": "Damián Siré"
+      "speaker": "Damián Siré",
+      "image": "",
+      "role": "GDE Uruguay",
+      "type": "event"
     },
     {
       "time": "12:15 AM - 12:40 AM",
       "title": "¿Cómo iniciar en el desarrollo móvil en el 2024?",
-      "speaker": "Bruno Aybar"
+      "speaker": "Bruno Aybar",
+      "image": "",
+      "role": "Android Dev Perú",
+      "type": "event"
     },
     {
       "time": "12:45 AM - 01:40 PM",
       "title": "Los skills que no aparecen en listados que necesitas para no fracasar como dev",
-      "speaker": "Noe Branagan"
+      "speaker": "Noe Branagan",
+      "image": "",
+      "role": "Engineering Leader @Nubank",
+      "type": "event"
     },
     {
       "time": "01:15 AM - 03:00 PM",
       "title": "Break + Networking",
-      "speaker": ""
+      "speaker": "",
+      "image": "",
+      "role": "",
+      "type": "break"
     },
     {
       "time": "03:00 PM - 03:25 PM",
       "title": "¡Despierta tu creatividad! Crea tu primera app increíble con Flutter",
-      "speaker": "Hansy Smitch"
+      "speaker": "Hansy Smitch",
+      "image": "",
+      "role": "Flutter Perú",
+      "type": "event"
     },
     {
       "time": "03:00 PM - 03:25 PM",
       "title": "El perfecto candidato: ¿La IA o yo?",
-      "speaker": "Isabel Cordova"
+      "speaker": "Isabel Cordova",
+      "image": "",
+      "role": "Globant Ecuador",
+      "type": "event"
     },
     {
       "time": "04:00 PM - 04:25 PM",
       "title": "Creación de aplicaciones de Android con agentes de Inteligencia Artificial",
-      "speaker": "Santiago Carrillo"
+      "speaker": "Santiago Carrillo",
+      "image": "",
+      "role": "GDE Colombia",
+      "type": "event"
     },
     {
       "time": "04:30 PM - 04:55 PM",
       "title": "El futuro del trabajo en IT: De lo técnico a lo humano",
-      "speaker": "Joel Ibaceta"
+      "speaker": "Joel Ibaceta",
+      "image": "",
+      "role": "CTO @Kwema",
+      "type": "event"
     },
     {
       "time": "05:30 PM - 05:55 PM",
       "title": "Usando Servicios de Google para crear videojuegos de éxito",
-      "speaker": "Rafael Gonzales"
+      "speaker": "Rafael Gonzales",
+      "image": "",
+      "role": "Gerente Netdreams",
+      "type": "event"
     },
     {
       "time": "06:00 PM - 06:25 PM",
       "title": "¡Vamos a divertirnos jugando con IA en tu app de Angular usando Gemini!",
-      "speaker": "Will Mendes"
+      "speaker": "Will Mendes",
+      "image": "",
+      "role": "GDE Brasil",
+      "type": "event"
     },
     {
       "time": "06:00 PM - 06:25 PM",
       "title": "Cierre del evento",
-      "speaker": "Eduardo Ormeño"
+      "speaker": "Eduardo Ormeño",
+      "image": "/team/eduardo-ormeno.webp",
+      "role": "GDG Ica",
+      "type": "event"
     },
     {
       "time": "06:25 PM - 07:00 PM",
       "title": "Break + Networking",
-      "speaker": ""
+      "speaker": "",
+      "image": "",
+      "role": "",
+      "type": "break"
     }
   ],
   "speaker_ids": [
     "bruno-aybar-guerrero"
+  ],
+  "technologies": [
+    "Github",
+    "IA",
+    "Web",
+    "Android",
+    "Flutter",
+    "GCP",
+    "Cloud"
   ]
 }

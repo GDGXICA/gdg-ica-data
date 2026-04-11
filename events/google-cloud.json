@@ -42,55 +42,90 @@
     {
       "time": "08:00 AM - 09:00 AM",
       "title": "Registro de asistentes",
-      "speaker": "Fiorella Ariás"
+      "speaker": "Fiorella Ariás",
+      "image": "/placeholder.svg",
+      "role": "Organizadora",
+      "type": "event"
     },
     {
       "time": "09:00 AM - 09:15 PM",
       "title": "Inicio del evento",
-      "speaker": "Eduardo Ormeño"
+      "speaker": "Eduardo Ormeño",
+      "image": "/team/eduardo-ormeno.webp",
+      "role": "Organizador",
+      "type": "event"
     },
     {
       "time": "09:15 AM - 10:15 PM",
       "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte I",
-      "speaker": "Tony Trujillo"
+      "speaker": "Tony Trujillo",
+      "image": "/speakers/tony-trujillo.webp",
+      "role": "Data Architect @IDATHA",
+      "type": "event"
     },
     {
       "time": "10:15 AM - 10:30 PM",
       "title": "Break + Networking",
-      "speaker": ""
+      "speaker": "",
+      "image": "",
+      "role": "",
+      "type": "break"
     },
     {
       "time": "10:30 AM - 11:15 PM",
       "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte II",
-      "speaker": "Tony Trujillo"
+      "speaker": "Tony Trujillo",
+      "image": "/speakers/tony-trujillo.webp",
+      "role": "Data Architect @IDATHA",
+      "type": "event"
     },
     {
       "time": "11:15 AM - 11:30 PM",
       "title": "Break + Networking",
-      "speaker": ""
+      "speaker": "",
+      "image": "",
+      "role": "",
+      "type": "break"
     },
     {
       "time": "11:30 AM - 12:00 PM",
       "title": "Dinámica",
-      "speaker": "Pablo Ramos"
+      "speaker": "Pablo Ramos",
+      "image": "/team/pablo-ramos-tito.webp",
+      "role": "Organizador",
+      "type": "event"
     },
     {
       "time": "12:00 AM - 01:00 PM",
       "title": "GCP para Universitarios - ¡Desbloquea el poder de los datos! Parte III",
-      "speaker": "Tony Trujillo"
+      "speaker": "Tony Trujillo",
+      "image": "/speakers/tony-trujillo.webp",
+      "role": "Data Architect @IDATHA",
+      "type": "event"
     },
     {
       "time": "01:00 AM - 01:15 PM",
       "title": "Cierre del evento",
-      "speaker": "Eduardo Ormeño"
+      "speaker": "Eduardo Ormeño",
+      "image": "/team/eduardo-ormeno.webp",
+      "role": "Organizador",
+      "type": "event"
     },
     {
       "time": "01:15 AM - 02:00 PM",
       "title": "Break + Networking",
-      "speaker": ""
+      "speaker": "",
+      "image": "",
+      "role": "",
+      "type": "break"
     }
   ],
   "speaker_ids": [
     "tony-trujillo-davila"
+  ],
+  "technologies": [
+    "Cloud",
+    "GCP",
+    "Google Cloud"
   ]
 }

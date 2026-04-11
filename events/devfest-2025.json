@@ -65,5 +65,237 @@
     "david-contreras",
     "jose-hurtado",
     "eduardo-ormeno"
+  ],
+  "track_sessions": {
+    "main": [
+      {
+        "id": 1,
+        "title": "Registro de asistentes",
+        "name": "Comunidad GDG",
+        "image": "/gdg-logo.png",
+        "role": "Networking",
+        "type": "networking",
+        "startTime": "08:00 AM",
+        "endTime": "09:00 AM",
+        "duration": "1h"
+      },
+      {
+        "id": 2,
+        "title": "Tips to improve the testing",
+        "name": "Wilma Paca Patzi",
+        "image": "/speakers/wilma-paca.webp",
+        "role": "Staff Quality Engineer of Software at Jalasoft",
+        "type": "event",
+        "startTime": "09:00 AM",
+        "endTime": "09:30 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 3,
+        "title": "Arquitectura composable en banca y pagos",
+        "name": "Aldo Malaver",
+        "image": "/speakers/aldo-malaver.webp",
+        "role": "Sr. Architect at Bank",
+        "type": "event",
+        "startTime": "09:30 AM",
+        "endTime": "10:00 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 4,
+        "title": "Más allá del código: cómo liderar proyectos ágiles en el mundo real",
+        "name": "Josselyn Hinostroza",
+        "image": "/speakers/josselyn-hinostroza.webp",
+        "role": "Project Manager at Telefonica",
+        "type": "event",
+        "startTime": "10:00 AM",
+        "endTime": "10:30 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 5,
+        "title": "Coffee Break & Networking",
+        "name": "Comunidad GDG",
+        "image": "/gdg-logo.png",
+        "role": "Networking",
+        "type": "networking",
+        "startTime": "10:30 AM",
+        "endTime": "11:45 AM",
+        "duration": "1h 15m"
+      },
+      {
+        "id": 6,
+        "title": "Cómo la tecnología y la ciencia pueden contribuir al bienestar y la salud integral",
+        "name": "Michael Sontheimer",
+        "image": "/speakers/michael-sontheimer.webp",
+        "role": "Clinica Schubel",
+        "type": "event",
+        "startTime": "11:45 AM",
+        "endTime": "12:15 PM",
+        "duration": "30m"
+      },
+      {
+        "id": 7,
+        "title": "La convergencia del talento, la inteligencia artificial y el trabajo remoto",
+        "name": "Daniel Carbajal",
+        "image": "/speakers/daniel-carbajal.webp",
+        "role": "Senior Software Engineer at PowerFlex",
+        "type": "event",
+        "startTime": "12:15 PM",
+        "endTime": "12:45 PM",
+        "duration": "30m"
+      },
+      {
+        "id": 8,
+        "title": "Innovación y startups en la era de la IA",
+        "name": "Sigmund Mandel",
+        "image": "/speakers/sigmund-mandel.webp",
+        "role": "Google Developer Expert",
+        "type": "event",
+        "startTime": "12:45 PM",
+        "endTime": "01:15 PM",
+        "duration": "30m",
+        "isKeynote": false
+      },
+      {
+        "id": 9,
+        "title": "Cierre del devfest y agradecimientos",
+        "name": "Comunidad GDG",
+        "image": "/gdg-logo.png",
+        "role": "Networking",
+        "type": "networking",
+        "startTime": "01:15 PM",
+        "endTime": "01:30 PM",
+        "duration": "15m"
+      }
+    ],
+    "workshop1": [
+      {
+        "id": 1,
+        "title": "Taller de Vibe Coding con herramientas de Google",
+        "name": "Sigmund Mandel",
+        "image": "/speakers/sigmund-mandel.webp",
+        "role": "Google Developer Expert",
+        "type": "workshop",
+        "startTime": "09:00 AM",
+        "endTime": "11:30 AM",
+        "duration": "2h 30m"
+      },
+      {
+        "id": 2,
+        "title": "Coffee Break & Networking",
+        "name": "Comunidad GDG",
+        "image": "/gdg-logo.png",
+        "role": "Networking",
+        "type": "networking",
+        "startTime": "11:30 AM",
+        "endTime": "11:45 AM",
+        "duration": "15m"
+      }
+    ],
+    "workshop2": [
+      {
+        "id": 1,
+        "title": "Introducción con Spring Webflux y Blockchain",
+        "name": "Jose Hurtado",
+        "image": "/speakers/jose-hurtado.webp",
+        "role": "FullStack Developer",
+        "type": "workshop",
+        "startTime": "09:00 AM",
+        "endTime": "09:30 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 2,
+        "title": "El futuro del desarrollo: MCP y Github como aliados de la IA",
+        "name": "David Contreras",
+        "image": "/speakers/david-contreras.webp",
+        "role": "Github Campus Expert",
+        "type": "workshop",
+        "startTime": "09:30 AM",
+        "endTime": "10:00 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 3,
+        "title": "Agentes IA + ADK en python",
+        "name": "Luis Uculmana",
+        "image": "/team/luis-uculmana.webp",
+        "role": "GDG Ica Leader",
+        "type": "workshop",
+        "startTime": "10:00 AM",
+        "endTime": "10:30 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 4,
+        "title": "Superpoderes para desarrolladores: Flutter, Firebase y Github Copilot Agents",
+        "name": "Giancarlos Sandoval",
+        "image": "/speakers/giancarlos-sandoval.webp",
+        "role": "Flutter Developer & GitHub Expert",
+        "type": "workshop",
+        "startTime": "10:30 AM",
+        "endTime": "11:00 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 5,
+        "title": "Construyendo agentes inteligentes con Google Cloud",
+        "name": "Eduardo Ormeño",
+        "image": "/team/eduardo-ormeno.webp",
+        "role": "FullStack Developer & Github Campus Expert",
+        "type": "workshop",
+        "startTime": "11:00 AM",
+        "endTime": "11:30 AM",
+        "duration": "30m"
+      },
+      {
+        "id": 6,
+        "title": "Coffee Break & Networking",
+        "name": "Comunidad GDG",
+        "image": "/gdg-logo.png",
+        "role": "Networking",
+        "type": "networking",
+        "startTime": "11:30 AM",
+        "endTime": "11:45 AM",
+        "duration": "15m"
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "id": "main",
+      "name": "Auditorio Principal",
+      "color": "#1976D2",
+      "description": "Charlas magistrales y keynotes"
+    },
+    {
+      "id": "workshop1",
+      "name": "Sala de Workshops 1",
+      "color": "#388E3C",
+      "description": "Talleres prácticos y hands-on"
+    },
+    {
+      "id": "workshop2",
+      "name": "Sala de Workshops 2",
+      "color": "#F57C00",
+      "description": "Espacio de networking y actividades interactivas"
+    }
+  ],
+  "technologies": [
+    "AI",
+    "Android",
+    "Angular",
+    "Career Development",
+    "Certification Prep",
+    "Cloud",
+    "Data",
+    "Firebase",
+    "Flutter",
+    "Gemini",
+    "Google Assistant",
+    "Machine Learning",
+    "Vertex AI",
+    "Web"
   ]
 }

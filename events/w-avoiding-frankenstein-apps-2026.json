@@ -40,15 +40,29 @@
     {
       "time": "02:00 PM - 2:15 PM",
       "title": "Inicio del evento",
-      "speaker": "Eduardo Ormeño"
+      "speaker": "Eduardo Ormeño",
+      "image": "/team/eduardo-ormeno.webp",
+      "role": "Organizador",
+      "type": "event"
     },
     {
       "time": "02:15 PM - 04:00 PM",
       "title": "Evitando \"Aplicaciones Frankenstein\" generadas por AI Coding usando SDD y Antigravity",
-      "speaker": "Juan Guillermo Gómez Torres"
+      "speaker": "Juan Guillermo Gómez Torres",
+      "image": "/speakers/juan-gomez.webp",
+      "role": "Software Architect | Google Developer Expert in Firebase, GCP & AI",
+      "type": "event"
     }
   ],
   "speaker_ids": [
     "juan-guillermo-gomez-torres"
+  ],
+  "technologies": [
+    "AI",
+    "Gemini",
+    "Antigravity",
+    "Web",
+    "Cloud",
+    "Google Cloud"
   ]
 }
