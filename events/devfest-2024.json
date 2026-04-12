@@ -82,7 +82,7 @@
       "time": "10:45 AM - 11:10 AM",
       "title": "Desarrollo web colaborativo en la nube con GitHub Codespaces y Copilot.",
       "speaker": "Eduardo Ormeño",
-      "image": "",
+      "image": "https://gdgxica.github.io/team/eduardo-ormeno.webp",
       "role": "GitHub Campus Expert",
       "type": "event"
     },
@@ -162,7 +162,7 @@
       "time": "05:30 PM - 05:55 PM",
       "title": "Usando Servicios de Google para crear videojuegos de éxito",
       "speaker": "Rafael Gonzales",
-      "image": "",
+      "image": "https://gdgxica.github.io/speakers/rafael-gonzales.webp",
       "role": "Gerente Netdreams",
       "type": "event"
     },
