@@ -57,6 +57,11 @@
       "id": "2",
       "image_url": "https://gdgxica.github.io/sponsors/github.svg",
       "alt": "GitHub"
+    },
+    {
+      "id": "3",
+      "image_url": "https://gdgxica.github.io/sponsors/zegel.webp",
+      "alt": "Zegel"
     }
   ],
   "agenda": [],
