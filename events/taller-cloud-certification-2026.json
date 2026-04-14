@@ -47,7 +47,23 @@
     "Networking con la comunidad tech"
   ],
   "materials": {},
-  "sponsors": [],
+  "sponsors": [
+    {
+      "id": "1",
+      "image_url": "https://gdgxica.github.io/sponsors/google.svg",
+      "alt": "Google"
+    },
+    {
+      "id": "2",
+      "image_url": "https://gdgxica.github.io/sponsors/github.svg",
+      "alt": "GitHub"
+    },
+    {
+      "id": "3",
+      "image_url": "https://gdgxica.github.io/sponsors/zegel.webp",
+      "alt": "Zegel"
+    }
+  ],
   "agenda": [],
   "tracks": [],
   "track_sessions": {}
