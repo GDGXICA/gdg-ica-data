@@ -8,6 +8,7 @@
   "venue": "Zegel - Sede Ica",
   "venue_address": "Cuadra 10 Avenida Cutervo, Ica, 11001",
   "venue_map_url": "https://maps.app.goo.gl/ZegelIcaSede",
+  "venue_map_embed": "",
   "image_url": "https://gdgxica.github.io/events/taller-cloud-certification-2026.webp",
   "topics": [
     "Google Cloud",
@@ -16,19 +17,25 @@
     "Career Development",
     "Get Certified"
   ],
+  "technologies": [],
+  "speaker_ids": [
+    "jurgen-guerra",
+    "natali-lujan",
+    "eddy-rodriguez"
+  ],
   "speaker_names": [
     "Jürgen Guerra",
     "Natali Lujan",
     "Eddy Rodriguez"
   ],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-taller-intensivo-preparate-para-certificarte-en-cloud-aws-amp-google-cloud/",
+  "whatsapp_group_link": "https://chat.whatsapp.com/FkcMIt7iyCKB7BDlXYeHWY",
   "is_virtual": false,
   "is_highlight": false,
   "participants": 46,
   "max_participants": 60,
   "category": "meetup",
   "status": "upcoming",
-  "materials": {},
   "requirements": [
     "Registrarse",
     "Ser puntuales"
@@ -39,10 +46,9 @@
     "Coffee breaks",
     "Networking con la comunidad tech"
   ],
+  "materials": {},
+  "sponsors": [],
   "agenda": [],
-  "speaker_ids": [
-    "jurgen-guerra",
-    "natali-lujan",
-    "eddy-rodriguez"
-  ]
+  "tracks": [],
+  "track_sessions": {}
 }
