@@ -34,12 +34,18 @@
   {
     "id": "brian-castillo",
     "name": "Brian Castillo",
-    "bio": "Organizador de comunidades tech y colaborador de GDG Open Lima",
+    "bio": "CEO de Taya, plataforma tecnológica para la gestión y contratación de servicios mediante optimización de procesos digitales",
     "photo_url": "https://gdgxica.github.io/speakers/brian-castillo.webp",
     "company": "GDG Open Lima",
-    "role": "Community Organizer",
-    "topics": [],
-    "social_links": {},
+    "role": "CEO & Founder · Google Developer Expert",
+    "topics": [
+      "Gemini",
+      "Firebase",
+      "IA aplicada"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/briansalvattore/"
+    },
     "talk_ids": []
   },
   {
@@ -186,12 +192,18 @@
   {
     "id": "kevin-davila",
     "name": "Kevin Dávila",
-    "bio": "Frontend developer con más de 4 años de experiencia en desarrollo web, ganador del 3er lugar en COMFECO 2021",
+    "bio": "Software developer y divulgador de información sobre Web & AI",
     "photo_url": "https://gdgxica.github.io/speakers/kevin-davila.webp",
-    "company": "dotCMS",
-    "role": "Frontend Developer",
-    "topics": [],
-    "social_links": {},
+    "company": "",
+    "role": "Sr Software Engineer & GDE Angular",
+    "topics": [
+      "Angular",
+      "Web",
+      "AI"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/kevin-davila-dev/"
+    },
     "talk_ids": []
   },
   {
@@ -247,16 +259,18 @@
   {
     "id": "rafael-gonzales",
     "name": "Rafael Eduardo González-Otoya Barrera",
-    "bio": "Especialista en posicionamiento digital y creación de contenido con IA",
+    "bio": "Profesional peruano-español con perfil híbrido que combina narrativa audiovisual, desarrollo de software y marketing digital",
     "photo_url": "https://gdgxica.github.io/speakers/rafael-gonzales.webp",
-    "company": "",
-    "role": "Content Creator & AI Strategist",
+    "company": "Netdreams Studio SAC",
+    "role": "Chief Digital Marketing Officer",
     "topics": [
       "YouTube",
-      "AI",
-      "Content Creation"
+      "IA",
+      "Marketing Digital"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/rafael-gonz%C3%A1lez-otoya-93423988/"
+    },
     "talk_ids": []
   },
   {
@@ -290,13 +304,20 @@
   },
   {
     "id": "tony-trujillo-davila",
-    "name": "Tony Trujillo Dávila",
-    "bio": "Data Architect con certificaciones en Azure 7x, DataBricks 3x, AWS 2x, Google 2x y MCT Trainer en Big Data",
+    "name": "Tony Stivenson Trujillo Dávila",
+    "bio": "Expositor internacional en charlas de big data e IA y consultor Data Architect",
     "photo_url": "https://gdgxica.github.io/speakers/tony-trujillo.webp",
     "company": "IDATHA",
-    "role": "Data Architect & MCT Trainer",
-    "topics": [],
-    "social_links": {},
+    "role": "Data Architect",
+    "topics": [
+      "GCP",
+      "Terraform",
+      "Big Data",
+      "IA"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/tonytec/"
+    },
     "talk_ids": []
   },
   {
@@ -358,42 +379,48 @@
   {
     "id": "gianmarco-guerrero",
     "name": "Gianmarco Guerrero Menacho",
-    "bio": "Organizador de comunidades tech y co-organizador de CodeOn, involucrado con LEAD UPN y GDG Open",
+    "bio": "Community Lead en DSC UTP con experiencia en IA aplicada al desarrollo web",
     "photo_url": "https://gdgxica.github.io/speakers/gianmarco-guerrero.webp",
     "company": "LEAD UPN",
-    "role": "Tech Community Organizer",
+    "role": "AI Student NTTData · Notion Campus Leader",
     "topics": [
+      "Stitch",
       "AI",
-      "Community Building",
-      "Web"
+      "MCP"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/gianmarco-guerrero-menacho/"
+    },
     "talk_ids": []
   },
   {
     "id": "ana-valdespino",
     "name": "Ana Valdespino",
-    "bio": "Experta en marketing con enfoque en inteligencia artificial aplicada al proceso creativo",
+    "bio": "Ejecutiva de marketing con +20 años de trayectoria, fundadora de Markexis enfocada en IA generativa responsable",
     "photo_url": "https://gdgxica.github.io/speakers/ana-valdespino.webp",
-    "company": "Nielsen",
-    "role": "VP de Marketing LATAM",
+    "company": "Markexis",
+    "role": "CEO · Leading Women Mexico 2021",
     "topics": [
-      "AI",
-      "Career Development"
+      "IA Generativa",
+      "Liderazgo",
+      "Gestión del Cambio"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/anavaldespino"
+    },
     "talk_ids": []
   },
   {
     "id": "rafael-sansores",
     "name": "Rafael Sansores Majul",
-    "bio": "Experto en marketing digital y estrategia de contenidos con más de una década de experiencia. LinkedIn Top Voice en Marketing y Ventas",
+    "bio": "LinkedIn Top Voice y líder en IA para productividad. Tres veces TEDx Speaker",
     "photo_url": "https://gdgxica.github.io/speakers/rafael-sansores.webp",
     "company": "Avenue Media",
-    "role": "Director de Marketing & Editor en Jefe de Inspiras Magazine",
+    "role": "Director de Comunicaciones y IA Aplicada",
     "topics": [
-      "Career Development",
-      "Community Building"
+      "Google Gemini",
+      "Productividad",
+      "Marketing Digital"
     ],
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/rafaelsansoresmajul/"
@@ -403,57 +430,69 @@
   {
     "id": "homer-lopez-vidal",
     "name": "Homer López Vidal",
-    "bio": "",
+    "bio": "Software engineer con casi 6 años de experiencia en proyectos de LATAM, actualmente en Globant. Speaker y creador de contenido tech",
     "photo_url": "https://gdgxica.github.io/speakers/homer-lopez-vidal.webp",
-    "company": "",
-    "role": "AI Product Designer",
+    "company": "Globant",
+    "role": "Frontend & Mobile Software Engineer",
     "topics": [
       "Google AI Studio",
-      "Product Design"
+      "Frontend",
+      "Mobile"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/homer-lopez/"
+    },
     "talk_ids": []
   },
   {
     "id": "brenda-jauregui",
     "name": "Brenda Jauregui",
-    "bio": "",
+    "bio": "Estudiante de Ing. Empresarial en la Universidad del Pacífico, Directora General de TEDxIca",
     "photo_url": "https://gdgxica.github.io/speakers/brenda-jauregui.webp",
     "company": "",
-    "role": "Emprendedora Tech",
+    "role": "Growth Intern en KAMAI · Harvard UWIB Ambassador",
     "topics": [
       "Emprendimiento",
-      "AI"
+      "IA",
+      "Productividad"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/brenda-yvonne-jauregui-ramos-696616231/"
+    },
     "talk_ids": []
   },
   {
     "id": "arisbeth-chacon",
     "name": "Arisbeth Chacon",
-    "bio": "",
+    "bio": "Estudiante de Ing. Empresarial UP. 1er lugar Ideatech Women in Technology Summit, embajadora Aspire Leaders",
     "photo_url": "https://gdgxica.github.io/speakers/arisbeth-chacon.webp",
     "company": "",
-    "role": "Emprendedora Tech",
+    "role": "Ops & Data en PANCHO · Fundadora de WarmiTalk",
     "topics": [
       "Emprendimiento",
-      "AI"
+      "IA",
+      "Data"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/arisbeth-patricia-chacon-daza-701a48269"
+    },
     "talk_ids": []
   },
   {
     "id": "gerardo-vilcamiza",
     "name": "Gerardo Alexis Vilcamiza Espinoza",
-    "bio": "",
+    "bio": "Ing. Mecatrónico con Maestría en IA Embebida. 5 años como Data Scientist y AI Engineer. Docente de IA en la Universidad de Buenos Aires",
     "photo_url": "https://gdgxica.github.io/speakers/gerardo-vilcamiza.webp",
     "company": "",
-    "role": "AI Engineer",
+    "role": "Senior GenAI Engineer en NTT DATA",
     "topics": [
       "Multi-agent",
-      "Multimodal AI"
+      "IA Multimodal",
+      "GenAI"
     ],
-    "social_links": {},
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/gerardo-vilcamiza"
+    },
     "talk_ids": []
   }
 ]
