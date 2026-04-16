@@ -23,13 +23,17 @@
     "Angular"
   ],
   "speaker_names": [
-    "Kevin Dávila",
-    "Brian Castillo",
-    "Rafael Gonzales",
-    "Tony Trujillo Dávila",
-    "Gianmarco Guerrero Menacho",
     "Ana Valdespino",
-    "Rafael Sansores Majul"
+    "Homer López Vidal",
+    "Rafael Sansores Majul",
+    "Arisbeth Chacon",
+    "Gerardo Alexis Vilcamiza Espinoza",
+    "Kevin Dávila",
+    "Brenda Jauregui",
+    "Rafael Eduardo González-Otoya Barrera",
+    "Tony Trujillo Dávila",
+    "Brian Castillo",
+    "Gianmarco Guerrero Menacho"
   ],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-build-with-ai-ica-2026/",
   "is_virtual": false,
@@ -51,13 +55,17 @@
   ],
   "agenda": [],
   "speaker_ids": [
+    "ana-valdespino",
+    "homer-lopez-vidal",
+    "rafael-sansores",
+    "arisbeth-chacon",
+    "gerardo-vilcamiza",
     "kevin-davila",
-    "brian-castillo",
+    "brenda-jauregui",
     "rafael-gonzales",
     "tony-trujillo-davila",
-    "gianmarco-guerrero",
-    "ana-valdespino",
-    "rafael-sansores"
+    "brian-castillo",
+    "gianmarco-guerrero"
   ],
   "sponsors": [
     {
@@ -70,5 +78,220 @@
       "image_url": "https://gdgxica.github.io/sponsors/utp.webp",
       "alt": "UTP"
     }
-  ]
+  ],
+  "tracks": [
+    {
+      "id": "auditorio",
+      "name": "Auditorio",
+      "color": "#2463EB",
+      "description": "Charlas principales del evento"
+    },
+    {
+      "id": "sala-1",
+      "name": "Sala 1",
+      "color": "#16A34A",
+      "description": "Talleres y charlas en paralelo"
+    },
+    {
+      "id": "sala-2",
+      "name": "Sala 2",
+      "color": "#EBB308",
+      "description": "Talleres y charlas en paralelo"
+    }
+  ],
+  "track_sessions": {
+    "auditorio": [
+      {
+        "id": 1,
+        "title": "Registro y Bienvenida",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "duration": "1h"
+      },
+      {
+        "id": 2,
+        "title": "Usando IA para posicionar tu canal de YouTube",
+        "name": "Rafael Eduardo González-Otoya Barrera",
+        "image": "/speakers/rafael-gonzales.webp",
+        "role": "Content Creator & AI Strategist",
+        "type": "event",
+        "startTime": "09:00",
+        "endTime": "09:30",
+        "duration": "30 min"
+      },
+      {
+        "id": 3,
+        "title": "Human-Centric AI: liderazgo y gestión del cambio para una adopción responsable de la IA",
+        "name": "Ana Valdespino",
+        "image": "/speakers/ana-valdespino.webp",
+        "role": "VP de Marketing LATAM",
+        "type": "event",
+        "startTime": "09:40",
+        "endTime": "10:10",
+        "duration": "30 min"
+      },
+      {
+        "id": 4,
+        "title": "Web & AI: Flujo complejo de AI para web developers",
+        "name": "Kevin Dávila",
+        "image": "/speakers/kevin-davila.webp",
+        "role": "Frontend Developer",
+        "type": "event",
+        "startTime": "10:20",
+        "endTime": "10:50",
+        "duration": "30 min"
+      },
+      {
+        "id": 5,
+        "title": "Break",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "10:50",
+        "endTime": "11:05",
+        "duration": "15 min"
+      },
+      {
+        "id": 6,
+        "title": "De Herramienta a Aliado: Maximizando tu Impacto con Google Gemini",
+        "name": "Rafael Sansores Majul",
+        "image": "/speakers/rafael-sansores.webp",
+        "role": "Director de Marketing & Editor en Jefe de Inspiras Magazine",
+        "type": "event",
+        "startTime": "11:05",
+        "endTime": "11:35",
+        "duration": "30 min"
+      },
+      {
+        "id": 7,
+        "title": "Desplegando Infraestructura para IA en GCP con Terraform",
+        "name": "Tony Trujillo Dávila",
+        "image": "/speakers/tony-trujillo.webp",
+        "role": "Data Architect & MCT Trainer",
+        "type": "event",
+        "startTime": "11:45",
+        "endTime": "12:15",
+        "duration": "30 min"
+      },
+      {
+        "id": 8,
+        "title": "Diseñando Inteligencia: cómo crear productos con Google AI Studio",
+        "name": "Homer López Vidal",
+        "image": "/speakers/homer-lopez-vidal.webp",
+        "role": "AI Product Designer",
+        "type": "event",
+        "startTime": "12:25",
+        "endTime": "12:55",
+        "duration": "30 min"
+      },
+      {
+        "id": 9,
+        "title": "Cierre del Evento",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "event",
+        "startTime": "12:55",
+        "endTime": "13:15",
+        "duration": "20 min"
+      }
+    ],
+    "sala-1": [
+      {
+        "id": 1,
+        "title": "Registro y Bienvenida",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "duration": "1h"
+      },
+      {
+        "id": 2,
+        "title": "Crea tu propio Jarvis: IA en tiempo real con la API Gemini Live y Firebase",
+        "name": "Brian Castillo",
+        "image": "/speakers/brian-castillo.webp",
+        "role": "Community Organizer",
+        "type": "workshop",
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "duration": "1h 30min"
+      },
+      {
+        "id": 3,
+        "title": "El Fin del Bloqueo Creativo Está Aquí, y se Llama Stitch",
+        "name": "Gianmarco Guerrero Menacho",
+        "image": "/speakers/gianmarco-guerrero.webp",
+        "role": "Tech Community Organizer",
+        "type": "event",
+        "startTime": "10:40",
+        "endTime": "11:10",
+        "duration": "30 min"
+      },
+      {
+        "id": 4,
+        "title": "Break",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "11:10",
+        "endTime": "11:25",
+        "duration": "15 min"
+      }
+    ],
+    "sala-2": [
+      {
+        "id": 1,
+        "title": "Registro y Bienvenida",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "duration": "1h"
+      },
+      {
+        "id": 2,
+        "title": "Construye tu proyecto o emprendimiento desde cero con herramientas de Inteligencia Artificial",
+        "name": "Brenda Jauregui, Arisbeth Chacon",
+        "image": "/gdg-logo.png",
+        "role": "",
+        "type": "workshop",
+        "startTime": "09:00",
+        "endTime": "10:30",
+        "duration": "1h 30min"
+      },
+      {
+        "id": 3,
+        "title": "Más allá del Chatbot: Arquitecturas multi-agente con IA multimodal para comprender el mundo",
+        "name": "Gerardo Alexis Vilcamiza Espinoza",
+        "image": "/speakers/gerardo-vilcamiza.webp",
+        "role": "AI Engineer",
+        "type": "event",
+        "startTime": "10:40",
+        "endTime": "11:10",
+        "duration": "30 min"
+      },
+      {
+        "id": 4,
+        "title": "Break",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "11:10",
+        "endTime": "11:25",
+        "duration": "15 min"
+      }
+    ]
+  }
 }

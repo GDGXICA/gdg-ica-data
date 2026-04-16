@@ -246,12 +246,16 @@
   },
   {
     "id": "rafael-gonzales",
-    "name": "Rafael Gonzales",
-    "bio": "Desarrollador especializado en videojuegos y servicios de Google, speaker en DevFest Ica 2024",
+    "name": "Rafael Eduardo González-Otoya Barrera",
+    "bio": "Especialista en posicionamiento digital y creación de contenido con IA",
     "photo_url": "https://gdgxica.github.io/speakers/rafael-gonzales.webp",
     "company": "",
-    "role": "Game Developer",
-    "topics": [],
+    "role": "Content Creator & AI Strategist",
+    "topics": [
+      "YouTube",
+      "AI",
+      "Content Creation"
+    ],
     "social_links": {},
     "talk_ids": []
   },
@@ -394,6 +398,62 @@
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/rafaelsansoresmajul/"
     },
+    "talk_ids": []
+  },
+  {
+    "id": "homer-lopez-vidal",
+    "name": "Homer López Vidal",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/homer-lopez-vidal.webp",
+    "company": "",
+    "role": "AI Product Designer",
+    "topics": [
+      "Google AI Studio",
+      "Product Design"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "brenda-jauregui",
+    "name": "Brenda Jauregui",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/brenda-jauregui.webp",
+    "company": "",
+    "role": "Emprendedora Tech",
+    "topics": [
+      "Emprendimiento",
+      "AI"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "arisbeth-chacon",
+    "name": "Arisbeth Chacon",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/arisbeth-chacon.webp",
+    "company": "",
+    "role": "Emprendedora Tech",
+    "topics": [
+      "Emprendimiento",
+      "AI"
+    ],
+    "social_links": {},
+    "talk_ids": []
+  },
+  {
+    "id": "gerardo-vilcamiza",
+    "name": "Gerardo Alexis Vilcamiza Espinoza",
+    "bio": "",
+    "photo_url": "https://gdgxica.github.io/speakers/gerardo-vilcamiza.webp",
+    "company": "",
+    "role": "AI Engineer",
+    "topics": [
+      "Multi-agent",
+      "Multimodal AI"
+    ],
+    "social_links": {},
     "talk_ids": []
   }
 ]
