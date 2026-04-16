@@ -3,7 +3,7 @@
     "id": "build-with-ai-ica-2026",
     "title": "Build with AI: Ica 2026",
     "description": "La Inteligencia Artificial está redefiniendo la forma en que construimos tecnología. Build with AI: Ica 2026 es un evento presencial organizado por GDG Ica donde exploraremos las últimas herramientas y tecnologías de Google para construir soluciones con inteligencia artificial. Únete a una jornada de charlas, talleres y networking con expertos de la comunidad tech. Aprende sobre Google Cloud, Firebase, Flutter, Angular y más, todo potenciado por IA. ¡Construyamos juntos el futuro con inteligencia artificial!",
-    "date": "2026-05-09T07:00:00",
+    "date": "2026-05-09T08:00:00",
     "end_time": "02:10 PM",
     "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
     "venue_address": "Universidad Tecnológica Del Perú S/N Avenida Ayabaca Ica, 11001",
@@ -23,13 +23,17 @@
       "Angular"
     ],
     "speaker_ids": [
+      "ana-valdespino",
+      "homer-lopez-vidal",
+      "rafael-sansores",
+      "arisbeth-chacon",
+      "gerardo-vilcamiza",
       "kevin-davila",
-      "brian-castillo",
+      "brenda-jauregui",
       "rafael-gonzales",
       "tony-trujillo-davila",
-      "gianmarco-guerrero",
-      "ana-valdespino",
-      "rafael-sansores"
+      "brian-castillo",
+      "gianmarco-guerrero"
     ],
     "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-build-with-ai-ica-2026/",
     "materials": {},
