@@ -32,8 +32,8 @@
   "whatsapp_group_link": "https://chat.whatsapp.com/GSR8ehxcDDS5j7HHR84pri",
   "is_virtual": false,
   "is_highlight": false,
-  "participants": 46,
-  "max_participants": 60,
+  "participants": 84,
+  "max_participants": 100,
   "category": "meetup",
   "status": "upcoming",
   "requirements": [
