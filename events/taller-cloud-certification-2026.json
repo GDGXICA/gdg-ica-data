@@ -67,20 +67,20 @@
   "agenda": [],
   "tracks": [
     {
-      "id": "Auditorio",
-      "name": "",
+      "id": "auditorio-principal",
+      "name": "auditorio principal",
       "color": "#114a83",
       "description": ""
     },
     {
       "id": "salon1",
-      "name": "",
+      "name": "salon1",
       "color": "#1976D2",
       "description": ""
     }
   ],
   "track_sessions": {
-    "Auditorio": [
+    "auditorio-principal": [
       {
         "id": 1,
         "title": "demo",
@@ -118,7 +118,7 @@
       },
       {
         "id": 2,
-        "title": "demop",
+        "title": "demop1",
         "name": "Jose Hurtado",
         "image": "https://gdgxica.github.io/speakers/jose-hurtado.webp",
         "role": "FullStack Developer",
