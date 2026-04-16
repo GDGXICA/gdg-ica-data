@@ -8,6 +8,7 @@
   "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
   "venue_address": "Universidad Tecnológica Del Perú S/N Avenida Ayabaca Ica, 11001",
   "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
+  "venue_map_embed": "",
   "image_url": "https://gdgxica.github.io/events/build-with-ai-ica-2026.webp",
   "topics": [
     "Build with AI",
@@ -21,6 +22,20 @@
     "Get Certified",
     "Web",
     "Angular"
+  ],
+  "technologies": [],
+  "speaker_ids": [
+    "ana-valdespino",
+    "homer-lopez-vidal",
+    "rafael-sansores",
+    "arisbeth-chacon",
+    "gerardo-vilcamiza",
+    "kevin-davila",
+    "brenda-jauregui",
+    "rafael-gonzales",
+    "tony-trujillo-davila",
+    "brian-castillo",
+    "gianmarco-guerrero"
   ],
   "speaker_names": [
     "Ana Valdespino",
@@ -36,13 +51,13 @@
     "Gianmarco Guerrero Menacho"
   ],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-build-with-ai-ica-2026/",
+  "whatsapp_group_link": "",
   "is_virtual": false,
   "is_highlight": true,
-  "participants": 147,
-  "max_participants": 1000,
+  "participants": 157,
+  "max_participants": 500,
   "category": "meetup",
   "status": "upcoming",
-  "materials": {},
   "requirements": [
     "Registrarse",
     "Ser puntuales"
@@ -53,20 +68,7 @@
     "Coffee breaks",
     "Networking con la comunidad tech"
   ],
-  "agenda": [],
-  "speaker_ids": [
-    "ana-valdespino",
-    "homer-lopez-vidal",
-    "rafael-sansores",
-    "arisbeth-chacon",
-    "gerardo-vilcamiza",
-    "kevin-davila",
-    "brenda-jauregui",
-    "rafael-gonzales",
-    "tony-trujillo-davila",
-    "brian-castillo",
-    "gianmarco-guerrero"
-  ],
+  "materials": {},
   "sponsors": [
     {
       "id": "1",
@@ -79,6 +81,7 @@
       "alt": "UTP"
     }
   ],
+  "agenda": [],
   "tracks": [
     {
       "id": "auditorio",
