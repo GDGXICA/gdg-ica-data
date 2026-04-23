@@ -1,0 +1,85 @@
+name: Sync event participants
+
+on:
+  schedule:
+    # 07:00, 14:00, 20:00 America/Lima (UTC-5) => 12:00, 19:00, 01:00 UTC
+    - cron: '0 1,12,19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-participants
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Sync participants from community.dev
+        id: sync
+        shell: bash
+        run: |
+          set -euo pipefail
+          changed=0
+          shopt -s nullglob
+
+          for file in events/*.json; do
+            [ "$(basename "$file")" = "index.json" ] && continue
+
+            status=$(jq -r '.status // ""' "$file")
+            if [ "$status" != "upcoming" ]; then
+              continue
+            fi
+
+            reg_url=$(jq -r '.registration_url // ""' "$file")
+            slug=$(printf '%s' "$reg_url" \
+              | sed -nE 's|^https://gdg\.community\.dev/events/details/([^/]+)/?$|\1|p')
+            if [ -z "$slug" ]; then
+              echo "::notice::Skipping $file — registration_url is not a community.dev event URL"
+              continue
+            fi
+
+            api_url="https://gdg.community.dev/api/event/${slug}/ticket/"
+            echo "Fetching $api_url"
+
+            if ! response=$(curl -fsSL --max-time 30 "$api_url" 2>/dev/null); then
+              echo "::warning::Failed to fetch $api_url"
+              continue
+            fi
+
+            new_count=$(printf '%s' "$response" \
+              | jq -r '[.results[].quantity_claimed] | add // 0')
+            if ! [[ "$new_count" =~ ^[0-9]+$ ]]; then
+              echo "::warning::Invalid quantity_claimed from $api_url"
+              continue
+            fi
+
+            old_count=$(jq -r '.participants // 0' "$file")
+            if [ "$old_count" = "$new_count" ]; then
+              echo "$file: no change ($old_count)"
+              continue
+            fi
+
+            echo "$file: $old_count -> $new_count"
+            tmp=$(mktemp)
+            jq --argjson n "$new_count" '.participants = $n' "$file" > "$tmp"
+            mv "$tmp" "$file"
+            changed=$((changed + 1))
+          done
+
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        if: steps.sync.outputs.changed != '0'
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add events/*.json
+          git diff --cached --stat
+          git commit -m 'chore(events): sync participants from community.dev'
+          git push
