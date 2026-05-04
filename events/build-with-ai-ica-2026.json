@@ -23,7 +23,16 @@
     "Web",
     "Angular"
   ],
-  "technologies": [],
+  "technologies": [
+    "Gemini",
+    "Google AI Studio",
+    "Firebase",
+    "Google Cloud",
+    "Terraform",
+    "Angular",
+    "Google Stitch",
+    "Flutter"
+  ],
   "speaker_ids": [
     "ana-valdespino",
     "homer-lopez-vidal",
