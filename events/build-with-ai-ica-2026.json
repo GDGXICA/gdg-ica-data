@@ -7,8 +7,8 @@
   "end_time": "02:10 PM",
   "venue": "Universidad Tecnológica Del Perú (UTP) - Sede Ica",
   "venue_address": "Universidad Tecnológica Del Perú S/N Avenida Ayabaca Ica, 11001",
-  "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
-  "venue_map_embed": "",
+  "venue_map_url": "https://www.google.com/maps/place/UTP+Ica/@-14.0715321,-75.7379905,17z/data=!4m5!3m4!1s0x9110e3db5c16ca7d:0x14a969e069453071!8m2!3d-14.0715321!4d-75.7357965",
+  "venue_map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3862.44!2d-75.7379905!3d-14.0715321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9110e3db5c16ca7d%3A0x14a969e069453071!2sUTP+Ica!5e0!3m2!1ses!2spe!4v1748000000000!5m2!1ses!2spe",
   "image_url": "https://gdgxica.github.io/events/build-with-ai-ica-2026.webp",
   "topics": [
     "Build with AI",
