@@ -16,7 +16,7 @@
   {
     "id": "luis-uculmana",
     "name": "Luis Uculmana",
-    "role": "Speakers",
+    "role": "Leadership",
     "photo_url": "https://gdgxica.github.io/team/luis-uculmana.webp",
     "bio": "Software Engineer",
     "social_links": {
@@ -29,7 +29,7 @@
   {
     "id": "pablo-ramos",
     "name": "Pablo Ramos",
-    "role": "Sponsors",
+    "role": "Sponsorship",
     "photo_url": "https://gdgxica.github.io/team/pablo-ramos-tito.webp",
     "bio": "Data Analyst, Industrial Drone Pilot, IT Support",
     "social_links": {
@@ -41,7 +41,7 @@
   {
     "id": "ronaldo-alvarez",
     "name": "Ronaldo Alvarez",
-    "role": "Community Manager",
+    "role": "Social Media",
     "photo_url": "https://gdgxica.github.io/team/ronaldo-alvarez-uchuya.webp",
     "bio": "UX/UI Designer, Graphic Designer",
     "social_links": {
@@ -53,7 +53,7 @@
   {
     "id": "alvaro-pena",
     "name": "Alvaro Peña",
-    "role": "Desarrollo",
+    "role": "Tech",
     "photo_url": "https://gdgxica.github.io/team/alvaro-pena.webp",
     "bio": "Backend Developer",
     "social_links": {
@@ -67,7 +67,7 @@
   {
     "id": "geremy-hernandez",
     "name": "Geremy Hernandez",
-    "role": "Logística",
+    "role": "Logistics",
     "photo_url": "https://gdgxica.github.io/team/geremy-hernandez-pena.webp",
     "bio": "Data Analyst",
     "social_links": {
@@ -79,7 +79,7 @@
   {
     "id": "david-licla",
     "name": "David Licla",
-    "role": "Sponsors",
+    "role": "Speaker Management",
     "photo_url": "https://gdgxica.github.io/team/david-licla.webp",
     "bio": "Frontend Engineer",
     "social_links": {
