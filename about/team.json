@@ -144,5 +144,19 @@
     },
     "type": "organizer",
     "is_active": true
+  },
+  {
+    "id": "maria-limachi",
+    "name": "Maria Limachi",
+    "role": "Design",
+    "photo_url": "https://gdgxica.github.io/team/maria-limachi.webp",
+    "bio": "FullStack Developer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/maria-cristina-limachi-paucar/",
+      "github": "https://github.com/MTina-L",
+      "web": ""
+    },
+    "type": "organizer",
+    "is_active": true
   }
 ]
