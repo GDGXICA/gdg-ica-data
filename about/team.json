@@ -130,5 +130,19 @@
     },
     "type": "member",
     "is_active": true
+  },
+  {
+    "id": "angielina-soto",
+    "name": "Angielina Soto",
+    "role": "Community Experience",
+    "photo_url": "https://gdgxica.github.io/team/angielina-soto.webp",
+    "bio": "FullStack Developer",
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/angielinasoto/",
+      "github": "https://github.com/VinnBon",
+      "web": "https://www.vinnbon.visox.tech/"
+    },
+    "type": "organizer",
+    "is_active": true
   }
 ]
