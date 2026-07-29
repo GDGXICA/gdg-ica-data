@@ -32,7 +32,7 @@
   "includes": [],
   "technologies": [],
   "credential": {
-    "enabled": false,
+    "enabled": true,
     "headline": "Soy parte del DevFest ICA 2026",
     "group_letters": [
       "A",
