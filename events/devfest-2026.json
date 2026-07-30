@@ -1,13 +1,14 @@
 {
   "id": "devfest-2026",
   "title": "DevFest ICA 2026",
-  "description": "DevFest Ica 2026 vuelve el sabado 28 de noviembre, de 9:00 a 13:00, en la UTP sede Ica. Una manana de charlas y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica. La agenda, los speakers y los patrocinadores se anunciaran en las proximas semanas.",
+  "description": "DevFest Ica 2026 vuelve el sabado 28 de noviembre, de 9:00 a 13:00, en la UTP sede Ica. Una manana de charlas y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
   "short_description": "El festival de tecnologia de la comunidad GDG Ica vuelve el sabado 28 de noviembre por la manana.",
   "date": "2026-11-28T09:00:00",
   "end_time": "01:00 PM",
   "venue": "Universidad Tecnologica del Peru (UTP) - Sede Ica",
   "venue_address": "590 Avenida Jose Matias Manzanilla, Ica, Ica 11001, Peru",
   "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
+  "venue_map_embed": "",
   "image_url": "",
   "topics": [
     "Cloud",
@@ -16,21 +17,35 @@
     "Web",
     "Community Building"
   ],
+  "technologies": [],
   "speaker_ids": [],
   "speaker_names": [],
-  "sponsors": [],
-  "agenda": [],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2026/",
+  "whatsapp_group_link": "",
   "is_virtual": false,
   "is_highlight": true,
   "participants": 45,
   "max_participants": 350,
   "category": "devfest",
   "status": "upcoming",
-  "materials": {},
   "requirements": [],
   "includes": [],
-  "technologies": [],
+  "materials": {},
+  "sponsors": [
+    {
+      "id": "1",
+      "image_url": "https://gdgxica.github.io/sponsors/google.svg",
+      "alt": "Google"
+    },
+    {
+      "id": "2",
+      "image_url": "https://gdgxica.github.io/sponsors/github.svg",
+      "alt": "GitHub"
+    }
+  ],
+  "agenda": [],
+  "tracks": [],
+  "track_sessions": {},
   "credential": {
     "enabled": true,
     "headline": "Soy parte del DevFest ICA 2026",
