@@ -1,0 +1,18 @@
+{
+  "id": "shirley-sosa",
+  "name": "Shirley Sosa",
+  "bio": "Diseñadora UX conversacional y estratega de producto de IA, especializada en IA responsable. Women Techmakers Ambassador y fundadora de Juntas Comunidad e IA Camp.",
+  "photo_url": "https://gdgxica.github.io/speakers/shirley-sosa.webp",
+  "company": "Juntas Comunidad",
+  "role": "AI Product Strategist & Conversational AI Designer",
+  "topics": [
+    "AI",
+    "Community Building",
+    "Career Development"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/shirsosa/",
+    "github": "https://github.com/ShirsSosa"
+  },
+  "talk_ids": []
+}
