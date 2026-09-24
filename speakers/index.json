@@ -498,7 +498,7 @@
   {
     "id": "gera-flores",
     "name": "Gera Flores",
-    "bio": "Ingeniera industrial con MBA y fundadora de Miss Yera, consultora de IA generativa. Más de 12 años liderando equipos de analítica e inteligencia artificial.",
+    "bio": "Fundadora de Miss Yera, consultora de IA generativa.",
     "photo_url": "https://gdgxica.github.io/speakers/gera-flores.webp",
     "company": "Miss Yera",
     "role": "CEO & Founder",
@@ -517,7 +517,7 @@
   {
     "id": "shirley-sosa",
     "name": "Shirley Sosa",
-    "bio": "Diseñadora UX conversacional y estratega de producto de IA, especializada en IA responsable. Women Techmakers Ambassador y fundadora de Juntas Comunidad e IA Camp.",
+    "bio": "Diseñadora UX conversacional. Women Techmakers Ambassador.",
     "photo_url": "https://gdgxica.github.io/speakers/shirley-sosa.webp",
     "company": "Juntas Comunidad",
     "role": "AI Product Strategist & Conversational AI Designer",
@@ -535,7 +535,7 @@
   {
     "id": "henry-keniding",
     "name": "Henry Keniding",
-    "bio": "AI Software Engineer en Interbank, especializado en soluciones de inteligencia artificial y aplicaciones con agentes. Speaker en Build //localhost:Lima y docente en el Ethereum Lima Bootcamp.",
+    "bio": "AI Software Engineer en Interbank.",
     "photo_url": "https://gdgxica.github.io/speakers/henry-keniding.webp",
     "company": "Interbank",
     "role": "AI Software Engineer",
@@ -553,7 +553,7 @@
   {
     "id": "luis-eduardo",
     "name": "Luis Eduardo",
-    "bio": "Google Developer Expert en Firebase y Senior Frontend Developer en Intercorp Retail. Organizador de GDG Callao y Angular Perú; trabaja con arquitectura frontend y agentes de IA.",
+    "bio": "Google Developer Expert en Firebase. Organizador de GDG Callao.",
     "photo_url": "https://gdgxica.github.io/speakers/luis-eduardo.webp",
     "company": "Intercorp Retail",
     "role": "Senior Frontend Developer · GDE Firebase",
@@ -574,7 +574,7 @@
   {
     "id": "eva-ferreira",
     "name": "Eva Ferreira",
-    "bio": "Google Developer Expert desde 2018 y Lead Software Engineer. Organiza CSSConf Argentina desde 2015 y se enfoca en CSS, accesibilidad y design systems.",
+    "bio": "Google Developer Expert desde 2018. Organiza CSSConf Argentina.",
     "photo_url": "https://gdgxica.github.io/speakers/eva-ferreira.webp",
     "company": "",
     "role": "Lead Software Engineer · GDE",
@@ -593,7 +593,7 @@
   {
     "id": "benjamin-pareja",
     "name": "Benjamin Pareja",
-    "bio": "Docente y desarrollador XR y Android con más de 6 años creando experiencias de realidad virtual, aumentada y mixta. Colabora con GDG Arequipa.",
+    "bio": "Desarrollador XR y Android. Colabora con GDG Arequipa.",
     "photo_url": "https://gdgxica.github.io/speakers/benjamin-pareja.webp",
     "company": "",
     "role": "Docente · XR & Android Developer",
