@@ -1,0 +1,21 @@
+{
+  "id": "luis-eduardo",
+  "name": "Luis Eduardo",
+  "bio": "Google Developer Expert en Firebase y Senior Frontend Developer en Intercorp Retail. Organizador de GDG Callao y Angular Perú; trabaja con arquitectura frontend y agentes de IA.",
+  "photo_url": "https://gdgxica.github.io/speakers/luis-eduardo.webp",
+  "company": "Intercorp Retail",
+  "role": "Senior Frontend Developer · GDE Firebase",
+  "topics": [
+    "Firebase",
+    "Web",
+    "AI",
+    "Community Building"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/luiseduardoperezpacherrez/",
+    "github": "https://github.com/lperezp",
+    "twitter": "https://x.com/lperezp_pe",
+    "web": "https://www.lperezp.dev/"
+  },
+  "talk_ids": []
+}

@@ -18,8 +18,22 @@
     "Community Building"
   ],
   "technologies": [],
-  "speaker_ids": [],
-  "speaker_names": [],
+  "speaker_ids": [
+    "gera-flores",
+    "shirley-sosa",
+    "henry-keniding",
+    "luis-eduardo",
+    "eva-ferreira",
+    "benjamin-pareja"
+  ],
+  "speaker_names": [
+    "Gera Flores",
+    "Shirley Sosa",
+    "Henry Keniding",
+    "Luis Eduardo",
+    "Eva Ferreira",
+    "Benjamin Pareja"
+  ],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2026/",
   "whatsapp_group_link": "",
   "is_virtual": false,

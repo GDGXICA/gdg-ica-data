@@ -1,0 +1,18 @@
+{
+  "id": "henry-keniding",
+  "name": "Henry Keniding",
+  "bio": "AI Software Engineer en Interbank, especializado en soluciones de inteligencia artificial y aplicaciones con agentes. Speaker en Build //localhost:Lima y docente en el Ethereum Lima Bootcamp.",
+  "photo_url": "https://gdgxica.github.io/speakers/henry-keniding.webp",
+  "company": "Interbank",
+  "role": "AI Software Engineer",
+  "topics": [
+    "AI",
+    "Cloud"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/keniding/",
+    "github": "https://github.com/Keniding",
+    "web": "https://www.keniding.com/"
+  },
+  "talk_ids": []
+}
