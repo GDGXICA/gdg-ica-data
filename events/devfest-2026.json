@@ -6,9 +6,9 @@
   "date": "2026-11-28T09:00:00",
   "end_time": "01:00 PM",
   "venue": "Universidad Tecnologica del Peru (UTP) - Sede Ica",
-  "venue_address": "590 Avenida Jose Matias Manzanilla, Ica, Ica 11001, Peru",
-  "venue_map_url": "https://maps.app.goo.gl/GUd4wJh42tNoY7nC7",
-  "venue_map_embed": "",
+  "venue_address": "Av. Ayabaca S/N, Sector San José, al costado de la SUNAT, Ica 11001, Perú",
+  "venue_map_url": "https://share.google/ix8ElijI7pHxmhftd",
+  "venue_map_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3870.095593736898!2d-75.7379905!3d-14.0715321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9110e3db5c16ca7d%3A0x14a969e069453071!2sUniversidad%20Tecnol%C3%B3gica%20Del%20Per%C3%BA!5e0!3m2!1ses-419!2spe!4v1777939514647!5m2!1ses-419!2spe",
   "image_url": "https://gdgxica.github.io/events/devfest-2026.webp",
   "topics": [
     "Cloud",
