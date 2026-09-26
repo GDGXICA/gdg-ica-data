@@ -38,6 +38,10 @@
   "max_participants": 350,
   "category": "devfest",
   "status": "completed",
+  "mural": {
+    "enabled": true,
+    "headline": "Comparte tus fotos del DevFest 2025"
+  },
   "materials": {},
   "requirements": [
     "Estar registrado al evento a través del formulario oficial",
