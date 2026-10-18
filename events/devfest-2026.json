@@ -1,38 +1,47 @@
 {
   "id": "devfest-2026",
   "title": "DevFest ICA 2026",
-  "description": "DevFest Ica 2026 vuelve el sabado 28 de noviembre, de 9:00 a 13:00, en la UTP sede Ica. Una manana de charlas y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
-  "short_description": "El festival de tecnologia de la comunidad GDG Ica vuelve el sabado 28 de noviembre por la manana.",
+  "description": "DevFest Ica 2026 vuelve el sábado 28 de noviembre, de 9:00 a 13:30, en la UTP sede Ica. Una mañana de charlas, un taller y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
+  "short_description": "El festival de tecnología de la comunidad GDG Ica vuelve el sábado 28 de noviembre por la mañana.",
   "date": "2026-11-28T09:00:00",
-  "end_time": "01:00 PM",
+  "end_time": "01:30 PM",
   "venue": "Universidad Tecnologica del Peru (UTP) - Sede Ica",
   "venue_address": "Av. Ayabaca S/N, Sector San José, al costado de la SUNAT, Ica 11001, Perú",
   "venue_map_url": "https://share.google/ix8ElijI7pHxmhftd",
   "venue_map_embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3870.095593736898!2d-75.7379905!3d-14.0715321!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9110e3db5c16ca7d%3A0x14a969e069453071!2sUniversidad%20Tecnol%C3%B3gica%20Del%20Per%C3%BA!5e0!3m2!1ses-419!2spe!4v1777939514647!5m2!1ses-419!2spe",
   "image_url": "https://gdgxica.github.io/events/devfest-2026.webp",
   "topics": [
-    "Cloud",
     "IA",
+    "Cloud",
     "Android",
     "Web",
-    "Community Building"
+    "Emprendimiento",
+    "Crecimiento profesional"
   ],
   "technologies": [],
   "speaker_ids": [
-    "gera-flores",
-    "shirley-sosa",
+    "luis-mercado",
     "henry-keniding",
-    "luis-eduardo",
+    "gera-flores",
+    "brenda-jauregui",
     "eva-ferreira",
-    "benjamin-pareja"
+    "shirley-sosa",
+    "karla-huertas",
+    "benjamin-pareja",
+    "luis-eduardo",
+    "mari-moran"
   ],
   "speaker_names": [
-    "Gera Flores",
-    "Shirley Sosa",
+    "Luis Mercado",
     "Henry Keniding",
-    "Luis Eduardo",
+    "Gera Flores",
+    "Brenda Jauregui",
     "Eva Ferreira",
-    "Benjamin Pareja"
+    "Shirley Sosa",
+    "Karla Huertas",
+    "Benjamin Pareja",
+    "Luis Eduardo",
+    "Mari Moran"
   ],
   "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2026/",
   "whatsapp_group_link": "",
@@ -58,8 +67,191 @@
     }
   ],
   "agenda": [],
-  "tracks": [],
-  "track_sessions": {},
+  "tracks": [
+    {
+      "id": "auditorio",
+      "name": "Auditorio",
+      "color": "#2463EB",
+      "description": "Charlas principales del evento"
+    },
+    {
+      "id": "laboratorio",
+      "name": "Laboratorio",
+      "color": "#16A34A",
+      "description": "Taller y charlas en paralelo"
+    }
+  ],
+  "track_sessions": {
+    "auditorio": [
+      {
+        "id": 1,
+        "title": "Registro y Bienvenida",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "duration": "1h"
+      },
+      {
+        "id": 2,
+        "title": "¿La IA nos reemplazará?",
+        "name": "Luis Mercado",
+        "image": "",
+        "role": "CTO de Neoauto.com",
+        "type": "event",
+        "startTime": "09:00",
+        "endTime": "09:30",
+        "duration": "30 min"
+      },
+      {
+        "id": 3,
+        "title": "Dominando el marketing digital en 2026: SEO, GEO e IA para potenciar tu posicionamiento y crecimiento",
+        "name": "Gera Flores",
+        "image": "/speakers/gera-flores.webp",
+        "role": "CEO & Founder de Miss Yera",
+        "type": "event",
+        "startTime": "09:40",
+        "endTime": "10:10",
+        "duration": "30 min"
+      },
+      {
+        "id": 4,
+        "title": "Fun with Flags: El arte de enojar países con i18n",
+        "name": "Eva Ferreira",
+        "image": "/speakers/eva-ferreira.webp",
+        "role": "Staff Software Engineer en Mabl · GDE Web Technologies",
+        "type": "event",
+        "startTime": "10:20",
+        "endTime": "10:50",
+        "duration": "30 min"
+      },
+      {
+        "id": 5,
+        "title": "Break",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "10:50",
+        "endTime": "11:05",
+        "duration": "15 min"
+      },
+      {
+        "id": 6,
+        "title": "IA aplicada a la investigación: menos tiempo, más impacto",
+        "name": "Karla Huertas",
+        "image": "",
+        "role": "Gerente General de Optima Research",
+        "type": "event",
+        "startTime": "11:05",
+        "endTime": "11:35",
+        "duration": "30 min"
+      },
+      {
+        "id": 7,
+        "title": "Construya su primer agente de IA con Genkit",
+        "name": "Luis Eduardo",
+        "image": "/speakers/luis-eduardo.webp",
+        "role": "Senior Frontend Developer en Intercorp Retail · GDE Firebase",
+        "type": "event",
+        "startTime": "11:45",
+        "endTime": "12:15",
+        "duration": "30 min"
+      },
+      {
+        "id": 8,
+        "title": "Convierte tu talento Tech en una marca que genere oportunidades",
+        "name": "Mari Moran",
+        "image": "",
+        "role": "Líder de Empleabilidad de Programas Becas BCP en Escalo",
+        "type": "event",
+        "startTime": "12:25",
+        "endTime": "12:55",
+        "duration": "30 min"
+      },
+      {
+        "id": 9,
+        "title": "Cierre del Evento",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "event",
+        "startTime": "12:55",
+        "endTime": "13:30",
+        "duration": "35 min"
+      }
+    ],
+    "laboratorio": [
+      {
+        "id": 1,
+        "title": "Registro y Bienvenida",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "duration": "1h"
+      },
+      {
+        "id": 2,
+        "title": "A2A: Cuando tus Agentes de IA Aprenden a Trabajar en Equipo",
+        "name": "Henry Keniding",
+        "image": "/speakers/henry-keniding.webp",
+        "role": "Software Engineer en Interbank",
+        "type": "event",
+        "startTime": "09:00",
+        "endTime": "09:30",
+        "duration": "30 min"
+      },
+      {
+        "id": 3,
+        "title": "Emprender en la era de la IA: crea, valida y escala más rápido",
+        "name": "Brenda Jauregui",
+        "image": "/speakers/brenda-jauregui.webp",
+        "role": "Founder & CEO de KuskIA",
+        "type": "workshop",
+        "startTime": "09:40",
+        "endTime": "10:40",
+        "duration": "1h"
+      },
+      {
+        "id": 4,
+        "title": "Break",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "10:40",
+        "endTime": "10:50",
+        "duration": "10 min"
+      },
+      {
+        "id": 5,
+        "title": "¿Cómo evaluar asistentes de IA?: Mi framework de 4 criterios de confiabilidad",
+        "name": "Shirley Sosa",
+        "image": "/speakers/shirley-sosa.webp",
+        "role": "Conversational AI Designer en Yape",
+        "type": "event",
+        "startTime": "10:50",
+        "endTime": "11:20",
+        "duration": "30 min"
+      },
+      {
+        "id": 6,
+        "title": "Tu próxima app Android la construyes conversando: Android Skills en acción",
+        "name": "Benjamin Pareja",
+        "image": "/speakers/benjamin-pareja.webp",
+        "role": "Docente en Tecsup · Cofounder de CompensaTuViaje y CoreSearch",
+        "type": "event",
+        "startTime": "11:30",
+        "endTime": "12:00",
+        "duration": "30 min"
+      }
+    ]
+  },
   "credential": {
     "enabled": true,
     "headline": "Soy parte del DevFest ICA 2026",
