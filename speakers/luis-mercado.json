@@ -1,0 +1,17 @@
+{
+  "id": "luis-mercado",
+  "name": "Luis Mercado",
+  "bio": "10 años al frente de plataformas de alta disponibilidad.",
+  "photo_url": null,
+  "company": "Neoauto.com",
+  "role": "CTO de Neoauto.com",
+  "topics": [
+    "AI",
+    "Career Development",
+    "Startups"
+  ],
+  "social_links": {
+    "linkedin": "https://www.linkedin.com/in/luis-mercado-medina-77b78237"
+  },
+  "talk_ids": []
+}

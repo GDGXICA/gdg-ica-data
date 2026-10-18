@@ -345,27 +345,32 @@
   {
     "id": "devfest-2026",
     "title": "DevFest ICA 2026",
-    "description": "DevFest Ica 2026 vuelve el sabado 28 de noviembre, de 9:00 a 13:00, en la UTP sede Ica. Una manana de charlas y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
+    "description": "DevFest Ica 2026 vuelve el sábado 28 de noviembre, de 9:00 a 13:30, en la UTP sede Ica. Una mañana de charlas, un taller y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
     "date": "2026-11-28T09:00:00",
-    "end_time": "01:00 PM",
+    "end_time": "01:30 PM",
     "venue": "Universidad Tecnologica del Peru (UTP) - Sede Ica",
     "venue_address": "Av. Ayabaca S/N, Sector San José, al costado de la SUNAT, Ica 11001, Perú",
     "venue_map_url": "https://share.google/ix8ElijI7pHxmhftd",
     "image_url": "",
     "topics": [
-      "Cloud",
       "IA",
+      "Cloud",
       "Android",
       "Web",
-      "Community Building"
+      "Emprendimiento",
+      "Crecimiento profesional"
     ],
     "speaker_ids": [
-      "gera-flores",
-      "shirley-sosa",
+      "luis-mercado",
       "henry-keniding",
-      "luis-eduardo",
+      "gera-flores",
+      "brenda-jauregui",
       "eva-ferreira",
-      "benjamin-pareja"
+      "shirley-sosa",
+      "karla-huertas",
+      "benjamin-pareja",
+      "luis-eduardo",
+      "mari-moran"
     ],
     "registration_url": "https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2026/",
     "materials": {},

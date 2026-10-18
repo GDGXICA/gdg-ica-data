@@ -1,17 +1,17 @@
 {
   "id": "shirley-sosa",
   "name": "Shirley Sosa",
-  "bio": "Diseñadora UX conversacional. Women Techmakers Ambassador.",
+  "bio": "Women Techmakers Ambassador. Fundadora de Juntas, mujeres en IA.",
   "photo_url": "https://gdgxica.github.io/speakers/shirley-sosa.webp",
-  "company": "Juntas Comunidad",
-  "role": "AI Product Strategist & Conversational AI Designer",
+  "company": "Yape",
+  "role": "Conversational AI Designer en Yape",
   "topics": [
     "AI",
     "Community Building",
     "Career Development"
   ],
   "social_links": {
-    "linkedin": "https://www.linkedin.com/in/shirsosa/",
+    "linkedin": "https://www.linkedin.com/in/shirssosa/",
     "github": "https://github.com/ShirsSosa"
   },
   "talk_ids": []

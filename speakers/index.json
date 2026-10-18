@@ -447,10 +447,10 @@
   {
     "id": "brenda-jauregui",
     "name": "Brenda Jauregui",
-    "bio": "Estudiante de Ing. Empresarial en la Universidad del Pacífico, Directora General de TEDxIca",
+    "bio": "Democratiza el acceso a la IA con formación accesible desde KuskIA.",
     "photo_url": "https://gdgxica.github.io/speakers/brenda-jauregui.webp",
-    "company": "",
-    "role": "Growth Intern en KAMAI · Harvard UWIB Ambassador",
+    "company": "KuskIA",
+    "role": "Founder & CEO de KuskIA",
     "topics": [
       "Emprendimiento",
       "IA",
@@ -498,10 +498,10 @@
   {
     "id": "gera-flores",
     "name": "Gera Flores",
-    "bio": "Fundadora de Miss Yera, consultora de IA generativa.",
+    "bio": "Ingeniera industrial MBA, +13 años liderando analítica e IA.",
     "photo_url": "https://gdgxica.github.io/speakers/gera-flores.webp",
     "company": "Miss Yera",
-    "role": "CEO & Founder",
+    "role": "CEO & Founder de Miss Yera",
     "topics": [
       "AI",
       "Data",
@@ -517,17 +517,17 @@
   {
     "id": "shirley-sosa",
     "name": "Shirley Sosa",
-    "bio": "Diseñadora UX conversacional. Women Techmakers Ambassador.",
+    "bio": "Women Techmakers Ambassador. Fundadora de Juntas, mujeres en IA.",
     "photo_url": "https://gdgxica.github.io/speakers/shirley-sosa.webp",
-    "company": "Juntas Comunidad",
-    "role": "AI Product Strategist & Conversational AI Designer",
+    "company": "Yape",
+    "role": "Conversational AI Designer en Yape",
     "topics": [
       "AI",
       "Community Building",
       "Career Development"
     ],
     "social_links": {
-      "linkedin": "https://www.linkedin.com/in/shirsosa/",
+      "linkedin": "https://www.linkedin.com/in/shirssosa/",
       "github": "https://github.com/ShirsSosa"
     },
     "talk_ids": []
@@ -535,10 +535,10 @@
   {
     "id": "henry-keniding",
     "name": "Henry Keniding",
-    "bio": "AI Software Engineer en Interbank.",
+    "bio": "Construye agentes de IA en Interbank. Experto multicloud.",
     "photo_url": "https://gdgxica.github.io/speakers/henry-keniding.webp",
     "company": "Interbank",
-    "role": "AI Software Engineer",
+    "role": "Software Engineer en Interbank",
     "topics": [
       "AI",
       "Cloud"
@@ -553,10 +553,10 @@
   {
     "id": "luis-eduardo",
     "name": "Luis Eduardo",
-    "bio": "Google Developer Expert en Firebase. Organizador de GDG Callao.",
+    "bio": "Google Developer Expert en Firebase. Lidera GDG Callao y Angular Perú.",
     "photo_url": "https://gdgxica.github.io/speakers/luis-eduardo.webp",
     "company": "Intercorp Retail",
-    "role": "Senior Frontend Developer · GDE Firebase",
+    "role": "Senior Frontend Developer en Intercorp Retail · GDE Firebase",
     "topics": [
       "Firebase",
       "Web",
@@ -576,14 +576,14 @@
     "name": "Eva Ferreira",
     "bio": "Google Developer Expert desde 2018. Organiza CSSConf Argentina.",
     "photo_url": "https://gdgxica.github.io/speakers/eva-ferreira.webp",
-    "company": "",
-    "role": "Lead Software Engineer · GDE",
+    "company": "Mabl",
+    "role": "Staff Software Engineer en Mabl · GDE Web Technologies",
     "topics": [
       "Web",
       "Community Building"
     ],
     "social_links": {
-      "linkedin": "https://ar.linkedin.com/in/mariaevangelinaferreira",
+      "linkedin": "https://www.linkedin.com/in/mariaevangelinaferreira/",
       "github": "https://github.com/evaferreira",
       "twitter": "https://x.com/evaferreira92",
       "web": "https://www.evaferreira.com.ar"
@@ -593,10 +593,10 @@
   {
     "id": "benjamin-pareja",
     "name": "Benjamin Pareja",
-    "bio": "Desarrollador XR y Android. Colabora con GDG Arequipa.",
+    "bio": "+7 años en XR. Lidera XRLabs y desarrolla para Android.",
     "photo_url": "https://gdgxica.github.io/speakers/benjamin-pareja.webp",
-    "company": "",
-    "role": "Docente · XR & Android Developer",
+    "company": "Tecsup",
+    "role": "Docente en Tecsup · Cofounder de CompensaTuViaje y CoreSearch",
     "topics": [
       "Android",
       "AI",
@@ -605,6 +605,55 @@
     "social_links": {
       "linkedin": "https://www.linkedin.com/in/me7aben",
       "github": "https://github.com/Me7aBen"
+    },
+    "talk_ids": []
+  },
+  {
+    "id": "luis-mercado",
+    "name": "Luis Mercado",
+    "bio": "10 años al frente de plataformas de alta disponibilidad.",
+    "photo_url": null,
+    "company": "Neoauto.com",
+    "role": "CTO de Neoauto.com",
+    "topics": [
+      "AI",
+      "Career Development",
+      "Startups"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/luis-mercado-medina-77b78237"
+    },
+    "talk_ids": []
+  },
+  {
+    "id": "karla-huertas",
+    "name": "Karla Huertas",
+    "bio": "Abogada e investigadora RENACYT. Fundadora de Women in Research LATAM.",
+    "photo_url": null,
+    "company": "Optima Research",
+    "role": "Gerente General de Optima Research",
+    "topics": [
+      "AI",
+      "Career Development",
+      "Startups"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/karlahuertasvilca/"
+    },
+    "talk_ids": []
+  },
+  {
+    "id": "mari-moran",
+    "name": "Mari Moran",
+    "bio": "Fundadora de la Comunidad de Mujeres en HR. +4 años en empleabilidad.",
+    "photo_url": null,
+    "company": "Escalo",
+    "role": "Líder de Empleabilidad de Programas Becas BCP en Escalo",
+    "topics": [
+      "Career Development"
+    ],
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/in/marimoran/"
     },
     "talk_ids": []
   }
