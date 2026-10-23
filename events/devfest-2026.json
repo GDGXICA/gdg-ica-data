@@ -18,7 +18,17 @@
     "Emprendimiento",
     "Crecimiento profesional"
   ],
-  "technologies": [],
+  "technologies": [
+    "IA",
+    "Agentes de IA",
+    "Genkit",
+    "Firebase",
+    "A2A",
+    "Android",
+    "Web",
+    "i18n",
+    "SEO y GEO"
+  ],
   "speaker_ids": [
     "luis-mercado",
     "henry-keniding",
@@ -51,8 +61,21 @@
   "max_participants": 350,
   "category": "devfest",
   "status": "upcoming",
-  "requirements": [],
-  "includes": [],
+  "requirements": [
+    "Registrarse en gdg.community.dev",
+    "Llegar desde las 8:00 para el registro y la bienvenida",
+    "Traer laptop si vas al taller del laboratorio",
+    "Ganas de aprender y conectar con la comunidad tech"
+  ],
+  "includes": [
+    "9 charlas y 1 taller en dos ambientes: auditorio y laboratorio",
+    "Coffee break",
+    "Swag oficial de Google y GitHub",
+    "Certificado digital de participación",
+    "Credencial digital del DevFest ICA 2026",
+    "Dinámicas en vivo con premios",
+    "Networking con la comunidad tech de Ica"
+  ],
   "materials": {},
   "sponsors": [
     {
