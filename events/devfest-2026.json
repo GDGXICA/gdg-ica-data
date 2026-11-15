@@ -285,5 +285,9 @@
       "C"
     ],
     "max_credentials": 700
+  },
+  "mural": {
+    "enabled": true,
+    "headline": "Fotos de DevFest ICA 2026"
   }
 }
