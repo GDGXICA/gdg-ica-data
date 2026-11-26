@@ -1,7 +1,7 @@
 {
   "id": "devfest-2026",
   "title": "DevFest ICA 2026",
-  "description": "DevFest Ica 2026 vuelve el sábado 28 de noviembre, de 9:00 a 13:30, en la UTP sede Ica. Una mañana de charlas, un taller y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
+  "description": "DevFest Ica 2026 vuelve el sábado 28 de noviembre, de 9:00 a 13:30, en la UTP sede Ica. Una mañana de charlas, dos talleres y networking con la comunidad tech de Ica, organizada por Google Developer Group Ica.",
   "short_description": "El festival de tecnología de la comunidad GDG Ica vuelve el sábado 28 de noviembre por la mañana.",
   "date": "2026-11-28T09:00:00",
   "end_time": "01:30 PM",
@@ -27,16 +27,15 @@
     "Android",
     "Web",
     "i18n",
-    "SEO y GEO"
+    "GCP",
+    "Gemini"
   ],
   "speaker_ids": [
     "luis-mercado",
     "henry-keniding",
-    "gera-flores",
     "brenda-jauregui",
     "eva-ferreira",
     "shirley-sosa",
-    "karla-huertas",
     "benjamin-pareja",
     "luis-eduardo",
     "mari-moran"
@@ -44,11 +43,9 @@
   "speaker_names": [
     "Luis Mercado",
     "Henry Keniding",
-    "Gera Flores",
     "Brenda Jauregui",
     "Eva Ferreira",
     "Shirley Sosa",
-    "Karla Huertas",
     "Benjamin Pareja",
     "Luis Eduardo",
     "Mari Moran"
@@ -68,7 +65,7 @@
     "Ganas de aprender y conectar con la comunidad tech"
   ],
   "includes": [
-    "9 charlas y 1 taller en dos ambientes: auditorio y laboratorio",
+    "7 charlas y 2 talleres en dos ambientes: auditorio y laboratorio",
     "Coffee break",
     "Swag oficial de Google y GitHub",
     "Certificado digital de participación",
@@ -130,10 +127,10 @@
       },
       {
         "id": 3,
-        "title": "Dominando el marketing digital en 2026: SEO, GEO e IA para potenciar tu posicionamiento y crecimiento",
-        "name": "Gera Flores",
-        "image": "/speakers/gera-flores.webp",
-        "role": "CEO & Founder de Miss Yera",
+        "title": "A2A: Cuando tus Agentes de IA Aprenden a Trabajar en Equipo",
+        "name": "Henry Keniding",
+        "image": "/speakers/henry-keniding.webp",
+        "role": "Software Engineer en Interbank",
         "type": "event",
         "startTime": "09:40",
         "endTime": "10:10",
@@ -163,10 +160,10 @@
       },
       {
         "id": 6,
-        "title": "IA aplicada a la investigación: menos tiempo, más impacto",
-        "name": "Karla Huertas",
-        "image": "/speakers/karla-huertas.webp",
-        "role": "Gerente General de Optima Research",
+        "title": "¿Cómo evaluar asistentes de IA?: Mi framework de 4 criterios de confiabilidad",
+        "name": "Shirley Sosa",
+        "image": "/speakers/shirley-sosa.webp",
+        "role": "Conversational AI Designer en Yape",
         "type": "event",
         "startTime": "11:05",
         "endTime": "11:35",
@@ -215,22 +212,11 @@
         "role": "",
         "type": "break",
         "startTime": "08:00",
-        "endTime": "09:00",
-        "duration": "1h"
+        "endTime": "09:40",
+        "duration": "1h 40 min"
       },
       {
         "id": 2,
-        "title": "A2A: Cuando tus Agentes de IA Aprenden a Trabajar en Equipo",
-        "name": "Henry Keniding",
-        "image": "/speakers/henry-keniding.webp",
-        "role": "Software Engineer en Interbank",
-        "type": "event",
-        "startTime": "09:00",
-        "endTime": "09:30",
-        "duration": "30 min"
-      },
-      {
-        "id": 3,
         "title": "Emprender en la era de la IA: crea, valida y escala más rápido",
         "name": "Brenda Jauregui",
         "image": "/speakers/brenda-jauregui.webp",
@@ -241,7 +227,7 @@
         "duration": "1h"
       },
       {
-        "id": 4,
+        "id": 3,
         "title": "Break",
         "name": "",
         "image": "",
@@ -252,26 +238,37 @@
         "duration": "10 min"
       },
       {
-        "id": 5,
-        "title": "¿Cómo evaluar asistentes de IA?: Mi framework de 4 criterios de confiabilidad",
-        "name": "Shirley Sosa",
-        "image": "/speakers/shirley-sosa.webp",
-        "role": "Conversational AI Designer en Yape",
+        "id": 4,
+        "title": "Tu próxima app Android la construyes conversando: Android Skills en acción",
+        "name": "Benjamin Pareja",
+        "image": "/speakers/benjamin-pareja.webp",
+        "role": "Docente en Tecsup · Cofounder de CompensaTuViaje y CoreSearch",
         "type": "event",
         "startTime": "10:50",
         "endTime": "11:20",
         "duration": "30 min"
       },
       {
-        "id": 6,
-        "title": "Tu próxima app Android la construyes conversando: Android Skills en acción",
-        "name": "Benjamin Pareja",
-        "image": "/speakers/benjamin-pareja.webp",
-        "role": "Docente en Tecsup · Cofounder de CompensaTuViaje y CoreSearch",
-        "type": "event",
+        "id": 5,
+        "title": "Construyendo con GCP y Gemini",
+        "name": "GDG Ica",
+        "image": "/gdg-logo.png",
+        "role": "Google Developer Group Ica",
+        "type": "workshop",
         "startTime": "11:30",
         "endTime": "12:00",
         "duration": "30 min"
+      },
+      {
+        "id": 6,
+        "title": "Nos movemos hacia el auditorio principal",
+        "name": "",
+        "image": "",
+        "role": "",
+        "type": "break",
+        "startTime": "12:00",
+        "endTime": "12:10",
+        "duration": "10 min"
       }
     ]
   },
