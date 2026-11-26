@@ -39,18 +39,6 @@
     "is_active": true
   },
   {
-    "id": "ronaldo-alvarez",
-    "name": "Ronaldo Alvarez",
-    "role": "Social Media",
-    "photo_url": "https://gdgxica.github.io/team/ronaldo-alvarez-uchuya.webp",
-    "bio": "UX/UI Designer, Graphic Designer",
-    "social_links": {
-      "linkedin": "https://www.linkedin.com/in/ronaldo-alvarez-b76453240/"
-    },
-    "type": "organizer",
-    "is_active": true
-  },
-  {
     "id": "alvaro-pena",
     "name": "Alvaro Peña",
     "role": "Tech",
